@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import Flags from "country-flag-icons/react/3x2"
-import { ComposableMap, Geographies, Geography } from "react-simple-maps"
+import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps"
 import map from "./map.json"
 
 interface DataItem {
@@ -71,11 +71,12 @@ export default function Page() {
 
       {/* Add Map Section */}
       <div className="container mx-auto p-4">
-        <div className="max-w-[500px] mx-auto mb-8">
+        <div className="max-w-[600px] mx-auto mb-8">
           <ComposableMap projectionConfig={{
         rotate: [-10, 0, 0],
         scale: 147
       }} projection="geoMercator">
+        <ZoomableGroup center={[0, 0]} zoom={9}>
             <Geographies geography={map}>
               {({ geographies }) =>
                 geographies.map((geo) => (
@@ -105,6 +106,7 @@ export default function Page() {
                 ))
               }
             </Geographies>
+          </ZoomableGroup>
           </ComposableMap>
         </div>
 
