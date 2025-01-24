@@ -16,8 +16,43 @@ interface DataItem {
 }
 
 const countryCodeMap: { [key: string]: string } = {
+  Albania: "AL",
+  Algeria: "DZ",
+  Andorra: "AD",
+  Angola: "AO",
+  Argentina: "AR",
+  Aruba: "AW",
+  Australia: "AU",
+  Austria: "AT",
+  Azerbaijan: "AZ",
+  Bahamas: "BS",
+  Bahrain: "BH",
   Brazil: "BR",
-  // Add more mappings as needed
+  "British Virgin Islands": "VG",
+  Bulgaria: "BG",
+  Cambodia: "KH",
+  "Canada - New Brunswick": "CA",
+  "Canada - Newfoundland and Labrador": "CA",
+  "Canada - Prince Edward Island": "CA",
+  "Canada Federal": "CA",
+  "Cayman Islands": "KY",
+  Chile: "CL",
+  China: "CN",
+  Colombia: "CO",
+  Philippines: "PH",
+  Poland: "PL",
+  Portugal: "PT",
+  "Puerto Rico": "PR",
+  Qatar: "QA",
+  "United Kingdom": "GB",
+  Uruguay: "UY",
+  "US- U.S. Virgin Islands (Territories)": "VI",
+  "US-Alabama": "US",
+  "US-Wisconsin": "US",
+  "US-Wyoming": "US",
+  Uzbekistan: "UZ",
+  Vanuatu: "VU",
+  Zambia: "ZM"
 }
 
 // Add this constant for the map
@@ -62,21 +97,36 @@ export default function Page() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white">
       {/* Hero Section */}
-      <div className="bg-primary text-primary-foreground py-20 px-4">
+      <div className="bg-primary text-primary-foreground py-20 px-4 mb-5">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-4">Worldwide Company Documents</h1>
           <p className="text-xl mb-8">Find registration details and documents from around the world 🌍</p>
         </div>
       </div>
 
+        {/* Search and Results Section */}
+        <Input
+          type="text"
+          placeholder="Search for country, document type, or source..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="mb-2 max-w-md mx-auto"
+        />
+
+        <div className="text-center mb-4">
+          <small className="text-gray-500">or click anywhere on the map to search for documents in that country</small>
+        </div>
+
+
       {/* Add Map Section */}
-      <div className="container mx-auto p-4">
-        <div className="max-w-[600px] mx-auto mb-8">
-          <ComposableMap projectionConfig={{
-        rotate: [-10, 0, 0],
+      <div className="container mx-auto">
+        <div className="max-w-[600px] mx-auto mb-2">
+      <ComposableMap projectionConfig={{
+        rotate: [0, 0, 0],
+        center: [0, 40],
         scale: 147
       }} projection="geoMercator">
-        <ZoomableGroup center={[0, 0]} zoom={9}>
+        <ZoomableGroup center={[0, 0]} zoom={1}>
             <Geographies geography={map}>
               {({ geographies }) =>
                 geographies.map((geo) => (
@@ -110,16 +160,8 @@ export default function Page() {
           </ComposableMap>
         </div>
 
-        {/* Search and Results Section */}
-        <Input
-          type="text"
-          placeholder="Search for country, document type, or source..."
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          className="mb-8 max-w-md mx-auto"
-        />
 
-        {searchTerm && (
+        {true && (
           <>
             {/* <h2 className="text-2xl font-bold mb-4">Search Results</h2> */}
             <Table>
@@ -129,7 +171,6 @@ export default function Page() {
                   <TableHead>Document Type</TableHead>
                   <TableHead>Price</TableHead>
                   <TableHead>Source</TableHead>
-                  <TableHead>Link</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
@@ -139,10 +180,9 @@ export default function Page() {
                       {getCountryFlag(item.Country)}
                       {item.Country}
                     </TableCell>
-                    <TableCell>{item.Document_Type}</TableCell>
-                    <TableCell>{item.Price}</TableCell>
-                    <TableCell>{item.Source}</TableCell>
                     <TableCell>
+                      <div className="flex flex-col gap-1">
+                      {item.Document_Type}
                       <a
                         href={item.Link}
                         target="_blank"
@@ -151,7 +191,11 @@ export default function Page() {
                       >
                         Link
                       </a>
+                      </div>
                     </TableCell>
+                    <TableCell>${item.Price}</TableCell>
+                    <TableCell><small>{item.Source}</small></TableCell>
+
                   </TableRow>
                 ))}
               </TableBody>
