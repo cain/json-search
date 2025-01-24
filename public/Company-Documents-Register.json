@@ -1,0 +1,4244 @@
+[
+    {
+        "Country":"Country",
+        "Document_Type":"Document Type",
+        "Price":"Price",
+        "Source":"Source",
+        "Link":"Link"
+    },
+    {
+        "Country":"Albania",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":null,
+        "Link":null
+    },
+    {
+        "Country":"Albania",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":50,
+        "Source":null,
+        "Link":null
+    },
+    {
+        "Country":"Albania",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"National Business Centre",
+        "Link":"https:\/\/qkb.gov.al\/home\/"
+    },
+    {
+        "Country":"Albania",
+        "Document_Type":"License Report",
+        "Price":50,
+        "Source":"National Business Centre",
+        "Link":"https:\/\/qkb.gov.al\/home\/"
+    },
+    {
+        "Country":"Albania",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Business Centre",
+        "Link":"https:\/\/qkb.gov.al\/home\/"
+    },
+    {
+        "Country":"Algeria",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Centre National du Registre du Commerce (SIDJILCOM)",
+        "Link":"https:\/\/sidjilcom.cnrc.dz\/en\/home"
+    },
+    {
+        "Country":"Algeria",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Centre National du Registre du Commerce (SIDJILCOM)",
+        "Link":"https:\/\/sidjilcom.cnrc.dz\/en\/home"
+    },
+    {
+        "Country":"Andorra",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":null,
+        "Link":null
+    },
+    {
+        "Country":"Angola",
+        "Document_Type":"Certificate of Registration",
+        "Price":0,
+        "Source":"MINJUSDH - Ministry of Justice and Human Rights",
+        "Link":"https:\/\/gue.gov.ao\/portal\/publicacao"
+    },
+    {
+        "Country":"Argentina",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Federal Administration of Public Revenues (AFIP)",
+        "Link":"https:\/\/complementos.jus.gov.ar\/consultaempresa\/"
+    },
+    {
+        "Country":"Argentina",
+        "Document_Type":"Credit Report",
+        "Price":54.38,
+        "Source":"Federal Administration of Public Revenues (AFIP)",
+        "Link":"https:\/\/complementos.jus.gov.ar\/consultaempresa\/"
+    },
+    {
+        "Country":"Argentina",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Federal Administration of Public Revenues (AFIP)",
+        "Link":"https:\/\/complementos.jus.gov.ar\/consultaempresa\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Register Report",
+        "Price":65.5,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Articles of Association",
+        "Price":65.5,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Historical Report",
+        "Price":70.5,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":57.8,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Aruba",
+        "Document_Type":"Certificate of Registration",
+        "Price":57.8,
+        "Source":"Chamber of Commerce and Industry Aruba",
+        "Link":"https:\/\/arubachamber.com\/pages\/"
+    },
+    {
+        "Country":"Australia",
+        "Document_Type":"Annual Report",
+        "Price":19,
+        "Source":"Australian Securities and Investments Commission (ASIC)",
+        "Link":"https:\/\/asicconnect.asic.gov.au\/public\/faces\/landingPage;jsessionid=7w1zWtoFipTud5qQTrUONhCyPMept9ej0tK25AmcgA9UpVRerA8C!-1033355496"
+    },
+    {
+        "Country":"Australia",
+        "Document_Type":"Certificate of Registration",
+        "Price":21,
+        "Source":"Australian Securities and Investments Commission (ASIC)",
+        "Link":"https:\/\/asicconnect.asic.gov.au\/public\/faces\/landingPage;jsessionid=7w1zWtoFipTud5qQTrUONhCyPMept9ej0tK25AmcgA9UpVRerA8C!-1033355496"
+    },
+    {
+        "Country":"Australia",
+        "Document_Type":"Historical Report",
+        "Price":19,
+        "Source":"Australian Securities and Investments Commission (ASIC)",
+        "Link":"https:\/\/asicconnect.asic.gov.au\/public\/faces\/landingPage;jsessionid=7w1zWtoFipTud5qQTrUONhCyPMept9ej0tK25AmcgA9UpVRerA8C!-1033355496"
+    },
+    {
+        "Country":"Australia",
+        "Document_Type":"Official Filings (satisfied charges)",
+        "Price":19,
+        "Source":"Australian Securities and Investments Commission (ASIC)",
+        "Link":"https:\/\/asicconnect.asic.gov.au\/public\/faces\/landingPage;jsessionid=7w1zWtoFipTud5qQTrUONhCyPMept9ej0tK25AmcgA9UpVRerA8C!-1033355496"
+    },
+    {
+        "Country":"Australia",
+        "Document_Type":"Register Report",
+        "Price":9.46,
+        "Source":"Australian Securities and Investments Commission (ASIC)",
+        "Link":"https:\/\/asicconnect.asic.gov.au\/public\/faces\/landingPage;jsessionid=7w1zWtoFipTud5qQTrUONhCyPMept9ej0tK25AmcgA9UpVRerA8C!-1033355496"
+    },
+    {
+        "Country":"Austria",
+        "Document_Type":"Historical Report",
+        "Price":19.9,
+        "Source":"Austrian Commercial Register (Ministry of Justice)",
+        "Link":"https:\/\/justizonline.gv.at\/jop\/web\/firmenbuchabfrage"
+    },
+    {
+        "Country":"Austria",
+        "Document_Type":"Register Report",
+        "Price":12.9,
+        "Source":"Austrian Commercial Register (Ministry of Justice)",
+        "Link":"https:\/\/justizonline.gv.at\/jop\/web\/firmenbuchabfrage"
+    },
+    {
+        "Country":"Austria",
+        "Document_Type":"Articles of Association",
+        "Price":8.9,
+        "Source":"Austrian Commercial Register (Ministry of Justice)",
+        "Link":"https:\/\/justizonline.gv.at\/jop\/web\/firmenbuchabfrage"
+    },
+    {
+        "Country":"Austria",
+        "Document_Type":"Annual Accounts",
+        "Price":8.9,
+        "Source":"Austrian Commercial Register (Ministry of Justice)",
+        "Link":"https:\/\/justizonline.gv.at\/jop\/web\/firmenbuchabfrage"
+    },
+    {
+        "Country":"Austria",
+        "Document_Type":"Official Fillings",
+        "Price":8.9,
+        "Source":"Austrian Commercial Register (Ministry of Justice)",
+        "Link":"https:\/\/justizonline.gv.at\/jop\/web\/firmenbuchabfrage"
+    },
+    {
+        "Country":"Azerbaijan",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"State Register of Commercial Entities (Ministry of Taxes of the Republic of Azerbaijan)",
+        "Link":"https:\/\/www.taxes.gov.az\/en\/page\/vergi-odeyicileri-uzre-axtaris"
+    },
+    {
+        "Country":"Bahamas",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Government of the Bahamas",
+        "Link":"https:\/\/www.bahamas.gov.bs\/wps\/myportal\/public\/rgd\/company\/company-search"
+    },
+    {
+        "Country":"Bahrain",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Central Bank of Bahrain",
+        "Link":"https:\/\/www.bahrainchamber.bh\/en\/businesses-search"
+    },
+    {
+        "Country":"Belgium",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Crossroads Bank for Enterprises",
+        "Link":"https:\/\/kbopub.economie.fgov.be\/kbopub\/zoeknummerform.html?lang=en"
+    },
+    {
+        "Country":"Belgium",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Crossroads Bank for Enterprises",
+        "Link":"https:\/\/kbopub.economie.fgov.be\/kbopub\/zoeknummerform.html?lang=en"
+    },
+    {
+        "Country":"Belgium",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Crossroads Bank for Enterprises",
+        "Link":"https:\/\/kbopub.economie.fgov.be\/kbopub\/zoeknummerform.html?lang=en"
+    },
+    {
+        "Country":"Belgium",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Crossroads Bank for Enterprises",
+        "Link":"https:\/\/kbopub.economie.fgov.be\/kbopub\/zoeknummerform.html?lang=en"
+    },
+    {
+        "Country":"Belize",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Belize International Corporate Affairs Registry (BICAR)",
+        "Link":"https:\/\/obrs.bccar.bz\/bereg\/searchbusinesspublic"
+    },
+    {
+        "Country":"Belize",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":138.3,
+        "Source":"Belize International Corporate Affairs Registry (BICAR)",
+        "Link":"https:\/\/obrs.bccar.bz\/bereg\/searchbusinesspublic"
+    },
+    {
+        "Country":"Bermuda",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Bermuda Registrar of Companies",
+        "Link":"https:\/\/www.registrarofcompanies.gov.bm\/bmroc-capr\/viewInstance\/view.html?id=17ebe370d468cb92a1bc75bbb590fbe5885b99f416a3b140&_timestamp=1547165305734094"
+    },
+    {
+        "Country":"Bermuda",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":138.3,
+        "Source":"Bermuda Registrar of Companies",
+        "Link":"https:\/\/www.registrarofcompanies.gov.bm\/bmroc-capr\/viewInstance\/view.html?id=17ebe370d468cb92a1bc75bbb590fbe5885b99f416a3b140&_timestamp=1547165305734094"
+    },
+    {
+        "Country":"Bonaire, Sint Eustatius and Saba",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Bonaire Commercial Register",
+        "Link":"https:\/\/registry.bonairechamber.com\/login;rd_url=%2Fsearch%3F_gl%3D1*1i8d8qp*_ga*MTU1NDU1NjI0MS4xNzMyODExNDY1*_ga_57D4ZV9X5H*MTczMjgxMTQ2NS4xLjEuMTczMjgxMTQ3MC4wLjAuMA.."
+    },
+    {
+        "Country":"Bosnia and Herzegovina",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Dpeartment of Business Register",
+        "Link":"https:\/\/bizreg.ba\/Public\/PublicPortal\/CompaniesList"
+    },
+    {
+        "Country":"Botswana",
+        "Document_Type":"Registration Report",
+        "Price":4.8,
+        "Source":"Companies and Intellectual Property Authority (CIPA)",
+        "Link":"https:\/\/www.cipa.co.bw\/ng-cipa-master\/ui\/XP-Ej-83T7ndOCC5QllHMRbKNB9YXUDK_Idl9KY5d5M0lJuSb3CWlAfyT_A_4ENJQyK90RiXAW9fqBC5pFgTGIpOoJHBCWqOw3UaSO6xx6ZTSw-SS"
+    },
+    {
+        "Country":"Botswana",
+        "Document_Type":"Annual Report",
+        "Price":4.8,
+        "Source":"Companies and Intellectual Property Authority (CIPA)",
+        "Link":"https:\/\/www.cipa.co.bw\/ng-cipa-master\/ui\/XP-Ej-83T7ndOCC5QllHMRbKNB9YXUDK_Idl9KY5d5M0lJuSb3CWlAfyT_A_4ENJQyK90RiXAW9fqBC5pFgTGIpOoJHBCWqOw3UaSO6xx6ZTSw-SS"
+    },
+    {
+        "Country":"Botswana",
+        "Document_Type":"Articles of Association",
+        "Price":4.8,
+        "Source":"Companies and Intellectual Property Authority (CIPA)",
+        "Link":"https:\/\/www.cipa.co.bw\/ng-cipa-master\/ui\/XP-Ej-83T7ndOCC5QllHMRbKNB9YXUDK_Idl9KY5d5M0lJuSb3CWlAfyT_A_4ENJQyK90RiXAW9fqBC5pFgTGIpOoJHBCWqOw3UaSO6xx6ZTSw-SS"
+    },
+    {
+        "Country":"Brazil",
+        "Document_Type":"Register Report",
+        "Price":100,
+        "Source":"National Registry for Legal Entity - Brazilian Internal Revenue Service",
+        "Link":"https:\/\/solucoes.receita.fazenda.gov.br\/Servicos\/cnpjreva\/cnpjreva_Solicitacao.asp"
+    },
+    {
+        "Country":"Brazil",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Registry for Legal Entity - Brazilian Internal Revenue Service",
+        "Link":"https:\/\/solucoes.receita.fazenda.gov.br\/Servicos\/cnpjreva\/cnpjreva_Solicitacao.asp"
+    },
+    {
+        "Country":"British Virgin Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"British Virgin Islands Financial Services Commission",
+        "Link":"https:\/\/www.bvifsc.vg\/company-searches"
+    },
+    {
+        "Country":"British Virgin Islands",
+        "Document_Type":"Articles of Association",
+        "Price":143,
+        "Source":"British Virgin Islands Financial Services Commission",
+        "Link":"https:\/\/www.bvifsc.vg\/company-searches"
+    },
+    {
+        "Country":"British Virgin Islands",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":143,
+        "Source":"British Virgin Islands Financial Services Commission",
+        "Link":"https:\/\/www.bvifsc.vg\/company-searches"
+    },
+    {
+        "Country":"Bulgaria",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Registry of Agency",
+        "Link":"https:\/\/portal.registryagency.bg\/CR\/en\/reports\/VerificationPersonOrg"
+    },
+    {
+        "Country":"Bulgaria",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Registry of Agency",
+        "Link":"https:\/\/portal.registryagency.bg\/CR\/en\/reports\/VerificationPersonOrg"
+    },
+    {
+        "Country":"Bulgaria",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":50,
+        "Source":"Registry of Agency",
+        "Link":"https:\/\/portal.registryagency.bg\/CR\/en\/reports\/VerificationPersonOrg"
+    },
+    {
+        "Country":"Bulgaria",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Registry of Agency",
+        "Link":"https:\/\/portal.registryagency.bg\/CR\/en\/reports\/VerificationPersonOrg"
+    },
+    {
+        "Country":"Cambodia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Bank of Cambodia",
+        "Link":"https:\/\/www.businessregistration.moc.gov.kh\/cambodia-master\/viewInstance\/view.html?id=48e104de66a7c46f1912795850b16aabbed0232af0b8b7f6ba1710f68c4a6821&_timestamp=1097276106919867"
+    },
+    {
+        "Country":"Canada - New Brunswick",
+        "Document_Type":"Annual Report",
+        "Price":56.75,
+        "Source":"Financial Institutions Regulation Branch",
+        "Link":"https:\/\/www.pxw2.snb.ca\/card_online\/Search\/Search.aspx"
+    },
+    {
+        "Country":"Canada - New Brunswick",
+        "Document_Type":"Articles of Association",
+        "Price":56.75,
+        "Source":"Financial Institutions Regulation Branch",
+        "Link":"https:\/\/www.pxw2.snb.ca\/card_online\/Search\/Search.aspx"
+    },
+    {
+        "Country":"Canada - New Brunswick",
+        "Document_Type":"Official Filings",
+        "Price":56.75,
+        "Source":"Financial Institutions Regulation Branch",
+        "Link":"https:\/\/www.pxw2.snb.ca\/card_online\/Search\/Search.aspx"
+    },
+    {
+        "Country":"Canada - New Brunswick",
+        "Document_Type":"Registration Details",
+        "Price":52.2,
+        "Source":"Financial Institutions Regulation Branch",
+        "Link":"https:\/\/www.pxw2.snb.ca\/card_online\/Search\/Search.aspx"
+    },
+    {
+        "Country":"Canada - Newfoundland and Labrador",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":56.5,
+        "Source":"Corporate Affairs Registry Database (Province of New Brunswick)",
+        "Link":"https:\/\/cado.eservices.gov.nl.ca\/Company\/CompanyNameNumberSearch.aspx"
+    },
+    {
+        "Country":"Canada - Newfoundland and Labrador",
+        "Document_Type":"Officers \/MD List",
+        "Price":50,
+        "Source":"Corporate Affairs Registry Database (Province of New Brunswick)",
+        "Link":"https:\/\/cado.eservices.gov.nl.ca\/Company\/CompanyNameNumberSearch.aspx"
+    },
+    {
+        "Country":"Canada - Newfoundland and Labrador",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Corporate Affairs Registry Database (Province of New Brunswick)",
+        "Link":"https:\/\/cado.eservices.gov.nl.ca\/Company\/CompanyNameNumberSearch.aspx"
+    },
+    {
+        "Country":"Canada - Prince Edward Island",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Corporate Registries",
+        "Link":"https:\/\/www.princeedwardisland.ca\/en\/feature\/pei-business-corporate-registry#\/service\/BusinessAPI\/BusinessSearch"
+    },
+    {
+        "Country":"Canada Federal",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Corporations Canada",
+        "Link":"https:\/\/canadasbusinessregistries.ca\/search"
+    },
+    {
+        "Country":"Canada Federal",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Corporations Canada",
+        "Link":"https:\/\/canadasbusinessregistries.ca\/search"
+    },
+    {
+        "Country":"Canada Federal",
+        "Document_Type":"Officers \/MD List",
+        "Price":50,
+        "Source":"Corporations Canada",
+        "Link":"https:\/\/canadasbusinessregistries.ca\/search"
+    },
+    {
+        "Country":"Canada Federal",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Corporations Canada",
+        "Link":"https:\/\/canadasbusinessregistries.ca\/search"
+    },
+    {
+        "Country":"Cayman Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Cayman Islands General Registry",
+        "Link":"https:\/\/www.ciregistry.ky\/online-tools\/"
+    },
+    {
+        "Country":"Cayman Islands",
+        "Document_Type":"Officers \/MD List",
+        "Price":102.1,
+        "Source":"Cayman Islands General Registry",
+        "Link":"https:\/\/www.ciregistry.ky\/online-tools\/"
+    },
+    {
+        "Country":"Cayman Islands",
+        "Document_Type":"Register Report",
+        "Price":102.1,
+        "Source":"Cayman Islands General Registry",
+        "Link":"https:\/\/www.ciregistry.ky\/online-tools\/"
+    },
+    {
+        "Country":"Chile",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"CBRS - Conservador de Bienes Ra\u00edces de Santiago",
+        "Link":"https:\/\/www.registrodeempresasysociedades.cl\/BuscarActuaciones2.aspx"
+    },
+    {
+        "Country":"China",
+        "Document_Type":"Register Report",
+        "Price":10.5,
+        "Source":"State Administration of Market Regulation",
+        "Link":"https:\/\/www.registrationchina.com\/china-company-search\/"
+    },
+    {
+        "Country":"Colombia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Colombia CONLRSFCO License Report List of supervised entities",
+        "Link":"https:\/\/ruesfront.rues.org.co\/busqueda-avanzada"
+    },
+    {
+        "Country":"Colombia",
+        "Document_Type":"Register Report",
+        "Price":55.7,
+        "Source":"Colombia CONLRSFCO License Report List of supervised entities",
+        "Link":"https:\/\/ruesfront.rues.org.co\/busqueda-avanzada"
+    },
+    {
+        "Country":"Colombia",
+        "Document_Type":"Official Filings (BOOKS OF TRADE)",
+        "Price":55.7,
+        "Source":"Colombia CONLRSFCO License Report List of supervised entities",
+        "Link":"https:\/\/ruesfront.rues.org.co\/busqueda-avanzada"
+    },
+    {
+        "Country":"Colombia",
+        "Document_Type":"Official Filings (REGISTRATION CANCELED)",
+        "Price":52.8,
+        "Source":"Colombia CONLRSFCO License Report List of supervised entities",
+        "Link":"https:\/\/ruesfront.rues.org.co\/busqueda-avanzada"
+    },
+    {
+        "Country":"Comoros (Mwali)",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Mwali International Services Authority - REGISTRAR OF COMPANIES",
+        "Link":null
+    },
+    {
+        "Country":"Comoros (Mwali)",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":50,
+        "Source":"Mwali International Services Authority - REGISTRAR OF COMPANIES",
+        "Link":null
+    },
+    {
+        "Country":"Costa Rica",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Registry of Costa Rica",
+        "Link":null
+    },
+    {
+        "Country":"C\u00f4te d'Ivoire",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"CEPICI - Centre de Promotion des Investissements en Cote D'Ivoire",
+        "Link":null
+    },
+    {
+        "Country":"Croatia",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Court Register",
+        "Link":"https:\/\/sudreg.pravosudje.hr\/registar\/f?p=150:1"
+    },
+    {
+        "Country":"Croatia",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"Court Register",
+        "Link":"https:\/\/sudreg.pravosudje.hr\/registar\/f?p=150:1"
+    },
+    {
+        "Country":"Croatia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Court Register",
+        "Link":"https:\/\/sudreg.pravosudje.hr\/registar\/f?p=150:1"
+    },
+    {
+        "Country":"Croatia",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Court Register",
+        "Link":"https:\/\/sudreg.pravosudje.hr\/registar\/f?p=150:1"
+    },
+    {
+        "Country":"Croatia",
+        "Document_Type":"Articles of Association",
+        "Price":4.8,
+        "Source":"Court Register",
+        "Link":"https:\/\/sudreg.pravosudje.hr\/registar\/f?p=150:1"
+    },
+    {
+        "Country":"Cuba",
+        "Document_Type":"Credit Report",
+        "Price":0,
+        "Source":"Credit Report Latin America",
+        "Link":null
+    },
+    {
+        "Country":"Cura\u00e7ao",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Cura\u00e7ao Chamber of Commerce & Industry",
+        "Link":"https:\/\/www.curacaochamberofcommerce.com\/registry-services\/registry-search\/"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Officers \/MD List",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings (Certificate of Address)",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings (Certificate of alteration of objects)",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings (Certificate of capital)",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings (Certificate of no charges)",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Filings (Certificate of striking off)",
+        "Price":90,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Registration Details",
+        "Price":60,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Register Check",
+        "Price":0,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Shareholder List",
+        "Price":52.8,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Cyprus",
+        "Document_Type":"Official Fillings",
+        "Price":44,
+        "Source":"Registrar of Companies and Official Receiver (D.R.C.O.R.)",
+        "Link":"https:\/\/efiling.drcor.mcit.gov.cy\/DrcorPublic\/SearchForm.aspx?sc=0&cultureInfo=en-AU"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":50,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Trade Register Report",
+        "Price":3,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Czech Republic",
+        "Document_Type":"Beneficial Owners Check",
+        "Price":4.8,
+        "Source":"Ministry of Justice (via Czech Statistical Office)",
+        "Link":"https:\/\/or.justice.cz\/ias\/ui\/rejstrik"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Articles of Association",
+        "Price":70,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Certificate of Registration",
+        "Price":90,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Official Filings (Minutes of General Meeting)",
+        "Price":70,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Official Filings (Name Change Certificate)",
+        "Price":110,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Beneficial Owners Check",
+        "Price":4.8,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Denmark",
+        "Document_Type":"Annual Accounts",
+        "Price":4.8,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Officers \/MD List",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Official Filings (legal acts)",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Official Filings (compliance consultation)",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Shareholders List",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Official Filings (paid\/due securities)",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"Official Filings (other)",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Ecuador",
+        "Document_Type":"VAT Check",
+        "Price":50,
+        "Source":"Superintendence of Companies and Securities",
+        "Link":"https:\/\/appscvsgen.supercias.gob.ec\/consultaCompanias\/societario\/busquedaCompanias.jsf"
+    },
+    {
+        "Country":"Egypt",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Central Bank of Egypt",
+        "Link":null
+    },
+    {
+        "Country":"Estonia",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":0,
+        "Source":"Estonian Centre of Registers (RIK)",
+        "Link":"https:\/\/ariregister.rik.ee\/eng"
+    },
+    {
+        "Country":"Estonia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Estonian Centre of Registers (RIK)",
+        "Link":"https:\/\/ariregister.rik.ee\/eng"
+    },
+    {
+        "Country":"Estonia",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Estonian Centre of Registers (RIK)",
+        "Link":"https:\/\/ariregister.rik.ee\/eng"
+    },
+    {
+        "Country":"Estonia",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Estonian Centre of Registers (RIK)",
+        "Link":"https:\/\/ariregister.rik.ee\/eng"
+    },
+    {
+        "Country":"Estonia",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Estonian Centre of Registers (RIK)",
+        "Link":"https:\/\/ariregister.rik.ee\/eng"
+    },
+    {
+        "Country":"Faroe Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Company Registration Authority",
+        "Link":"https:\/\/www.skraseting.fo\/en\/companies\/search-companies\/"
+    },
+    {
+        "Country":"Fiji",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Registrar of Companies",
+        "Link":"https:\/\/roc.digital.gov.fj\/BuyInformation\/Search"
+    },
+    {
+        "Country":"Fiji",
+        "Document_Type":"Certificate of Registration",
+        "Price":60.2,
+        "Source":"Registrar of Companies",
+        "Link":"https:\/\/roc.digital.gov.fj\/BuyInformation\/Search"
+    },
+    {
+        "Country":"Fiji",
+        "Document_Type":"Articles of Association",
+        "Price":60.2,
+        "Source":"Registrar of Companies",
+        "Link":"https:\/\/roc.digital.gov.fj\/BuyInformation\/Search"
+    },
+    {
+        "Country":"Finland",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Business Information System (YTJ) (maintained by PRH)",
+        "Link":"https:\/\/tietopalvelu.ytj.fi\/"
+    },
+    {
+        "Country":"Finland",
+        "Document_Type":"Register Check",
+        "Price":8.7,
+        "Source":"Business Information System (YTJ) (maintained by PRH)",
+        "Link":"https:\/\/tietopalvelu.ytj.fi\/"
+    },
+    {
+        "Country":"Finland",
+        "Document_Type":"Annual Accounts",
+        "Price":13.38,
+        "Source":"Business Information System (YTJ) (maintained by PRH)",
+        "Link":"https:\/\/tietopalvelu.ytj.fi\/"
+    },
+    {
+        "Country":"Finland",
+        "Document_Type":"Articles of Association",
+        "Price":3.97,
+        "Source":"Business Information System (YTJ) (maintained by PRH)",
+        "Link":"https:\/\/tietopalvelu.ytj.fi\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Official Filings",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Official Fillings",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"France",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":0,
+        "Source":"Infogreffe (\u2018les greffes des tribunaux de commerce\u2018)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"French Guiana",
+        "Document_Type":"Register Report (French Guiana)",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"French Polynesia",
+        "Document_Type":"Register Report (French Polynesia)",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Georgia",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"National Bank of Georgia",
+        "Link":"https:\/\/enreg.reestri.gov.ge\/main.php?l=en&m=new_index"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Historical Report",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Chronological Extract",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Shareholder List",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Official Fillings",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Germany",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Common register portal of the German federal states",
+        "Link":"https:\/\/www.unternehmensregister.de\/ureg\/?submitaction=language&language=en"
+    },
+    {
+        "Country":"Ghana",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Companies Registry of Ghana",
+        "Link":"https:\/\/orc.gov.gh\/index.php\/services\/searches\/name-search"
+    },
+    {
+        "Country":"Gibraltar",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":52.8,
+        "Source":"Companies House Gibraltar",
+        "Link":"https:\/\/www.companieshouse.gi\/login.html"
+    },
+    {
+        "Country":"Gibraltar",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":109,
+        "Source":"Companies House Gibraltar",
+        "Link":"https:\/\/www.companieshouse.gi\/login.html"
+    },
+    {
+        "Country":"Gibraltar",
+        "Document_Type":"Register Report",
+        "Price":70,
+        "Source":"Companies House Gibraltar",
+        "Link":"https:\/\/www.companieshouse.gi\/login.html"
+    },
+    {
+        "Country":"Gibraltar",
+        "Document_Type":"Register Check",
+        "Price":7.92,
+        "Source":"Companies House Gibraltar",
+        "Link":"https:\/\/www.companieshouse.gi\/login.html"
+    },
+    {
+        "Country":"Greece",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"General Commercial Registry (G.E.MI.)",
+        "Link":"https:\/\/eyms.businessportal.gr\/auth"
+    },
+    {
+        "Country":"Greece",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"General Commercial Registry (G.E.MI.)",
+        "Link":"https:\/\/eyms.businessportal.gr\/auth"
+    },
+    {
+        "Country":"Greece",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"General Commercial Registry (G.E.MI.)",
+        "Link":"https:\/\/eyms.businessportal.gr\/auth"
+    },
+    {
+        "Country":"Greece",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"General Commercial Registry (G.E.MI.)",
+        "Link":"https:\/\/eyms.businessportal.gr\/auth"
+    },
+    {
+        "Country":"Greenland",
+        "Document_Type":"Articles of Association",
+        "Price":70,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Greenland",
+        "Document_Type":"Certificate of Registration",
+        "Price":90,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Greenland",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Greenland",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Greenland",
+        "Document_Type":"Annual Accounts",
+        "Price":4.8,
+        "Source":"Central Business Register Denmark (VIRK)",
+        "Link":"https:\/\/datacvr.virk.dk\/"
+    },
+    {
+        "Country":"Guadeloupe",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Commercial Registry",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Guadeloupe",
+        "Document_Type":"Articles of Association",
+        "Price":60.56,
+        "Source":"Commercial Registry",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Guadeloupe",
+        "Document_Type":"Official Filings",
+        "Price":59.15,
+        "Source":"Commercial Registry",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Guadeloupe",
+        "Document_Type":"Annual Accounts",
+        "Price":58.03,
+        "Source":"Commercial Registry",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Guernsey",
+        "Document_Type":"Articles of Association",
+        "Price":79,
+        "Source":"Guernsey Registry (GREG)",
+        "Link":"https:\/\/portal.guernseyregistry.com\/login"
+    },
+    {
+        "Country":"Guernsey",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":78,
+        "Source":"Guernsey Registry (GREG)",
+        "Link":"https:\/\/portal.guernseyregistry.com\/login"
+    },
+    {
+        "Country":"Guernsey",
+        "Document_Type":"Certificate of Registration",
+        "Price":78,
+        "Source":"Guernsey Registry (GREG)",
+        "Link":"https:\/\/portal.guernseyregistry.com\/login"
+    },
+    {
+        "Country":"Guernsey",
+        "Document_Type":"Register Report",
+        "Price":11.5,
+        "Source":"Guernsey Registry (GREG)",
+        "Link":"https:\/\/portal.guernseyregistry.com\/login"
+    },
+    {
+        "Country":"Guernsey",
+        "Document_Type":"Register Check",
+        "Price":5.58,
+        "Source":"Guernsey Registry (GREG)",
+        "Link":"https:\/\/portal.guernseyregistry.com\/login"
+    },
+    {
+        "Country":"Hong Kong SAR",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Hong Kong Companies Registry",
+        "Link":"https:\/\/www.e-services.cr.gov.hk\/ICRIS3EP\/system\/dashboard\/e-search.do"
+    },
+    {
+        "Country":"Hong Kong SAR",
+        "Document_Type":"Annual Report",
+        "Price":7.49,
+        "Source":"Hong Kong Companies Registry",
+        "Link":"https:\/\/www.e-services.cr.gov.hk\/ICRIS3EP\/system\/dashboard\/e-search.do"
+    },
+    {
+        "Country":"Hong Kong SAR",
+        "Document_Type":"Annual Accounts",
+        "Price":8.2,
+        "Source":"Hong Kong Companies Registry",
+        "Link":"https:\/\/www.e-services.cr.gov.hk\/ICRIS3EP\/system\/dashboard\/e-search.do"
+    },
+    {
+        "Country":"Hong Kong SAR",
+        "Document_Type":"Articles of Association",
+        "Price":8.2,
+        "Source":"Hong Kong Companies Registry",
+        "Link":"https:\/\/www.e-services.cr.gov.hk\/ICRIS3EP\/system\/dashboard\/e-search.do"
+    },
+    {
+        "Country":"Hong Kong SAR",
+        "Document_Type":"Official Fillings",
+        "Price":4.26,
+        "Source":"Hong Kong Companies Registry",
+        "Link":"https:\/\/www.e-services.cr.gov.hk\/ICRIS3EP\/system\/dashboard\/e-search.do"
+    },
+    {
+        "Country":"Hungary",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Court of Company Registration (\u2018Igazsag\u00fcgyi Miniszterium\u2019)",
+        "Link":"https:\/\/www.companyregister.hu\/"
+    },
+    {
+        "Country":"Hungary",
+        "Document_Type":"Register Report",
+        "Price":22.33,
+        "Source":"Court of Company Registration (\u2018Igazsag\u00fcgyi Miniszterium\u2019)",
+        "Link":"https:\/\/www.companyregister.hu\/"
+    },
+    {
+        "Country":"Hungary",
+        "Document_Type":"Register Check",
+        "Price":21.11,
+        "Source":"Court of Company Registration (\u2018Igazsag\u00fcgyi Miniszterium\u2019)",
+        "Link":"https:\/\/www.companyregister.hu\/"
+    },
+    {
+        "Country":"Hungary",
+        "Document_Type":"Filed Documents",
+        "Price":20.8,
+        "Source":"Court of Company Registration (\u2018Igazsag\u00fcgyi Miniszterium\u2019)",
+        "Link":"https:\/\/www.companyregister.hu\/"
+    },
+    {
+        "Country":"Hungary",
+        "Document_Type":"Filed Changes",
+        "Price":21.31,
+        "Source":"Court of Company Registration (\u2018Igazsag\u00fcgyi Miniszterium\u2019)",
+        "Link":"https:\/\/www.companyregister.hu\/"
+    },
+    {
+        "Country":"Iceland",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Iceland revenue and Customs",
+        "Link":"https:\/\/www.skatturinn.is\/fyrirtaekjaskra\/leit"
+    },
+    {
+        "Country":"Iceland",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Iceland revenue and Customs",
+        "Link":"https:\/\/www.skatturinn.is\/fyrirtaekjaskra\/leit"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Annual Accounts",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Articles of Association",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Certificate of Registration",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Official Filings (Change in Directors)",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Official Filings (Conversion of a company)",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Official Filings (Other files)",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Official Filings (Shareholders)",
+        "Price":51.2,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"India",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Ministry of Corporate Affairs \u2013 Government India",
+        "Link":"https:\/\/www.mca.gov.in\/content\/mca\/global\/en\/mca\/master-data\/MDS.html"
+    },
+    {
+        "Country":"Indonesia",
+        "Document_Type":"Registration Details",
+        "Price":140,
+        "Source":"DITJEN AHU - Ministry of Trade",
+        "Link":"https:\/\/ahu.go.id\/pencarian\/profil-pt"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Official Filings",
+        "Price":52.5,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Register Report",
+        "Price":9,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Annual Accounts",
+        "Price":7.8,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Articles of Association",
+        "Price":7.8,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Shareholder List",
+        "Price":7.8,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Ireland",
+        "Document_Type":"Official Fillings",
+        "Price":6.5,
+        "Source":"CRO - Companies Registration Office",
+        "Link":"https:\/\/core.cro.ie\/"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"Certificate of Registration",
+        "Price":52.3,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"Articles of Association",
+        "Price":52.3,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"Annual Report",
+        "Price":52.3,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"Certificate of Good Stamding",
+        "Price":107,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Isle of Man",
+        "Document_Type":"License Report",
+        "Price":50,
+        "Source":"Isle of Man Government - Companies Registry",
+        "Link":"https:\/\/services.gov.im\/ded\/services\/companiesregistry\/companysearch.iom"
+    },
+    {
+        "Country":"Israel",
+        "Document_Type":"Certificate of Registration",
+        "Price":52.57,
+        "Source":"Israeli Corporations Authority",
+        "Link":"https:\/\/www.gov.il\/en\/service\/company_extract"
+    },
+    {
+        "Country":"Israel",
+        "Document_Type":"Officials\/MD (Stock Exchange)",
+        "Price":50,
+        "Source":"Israeli Corporations Authority",
+        "Link":"https:\/\/www.gov.il\/en\/service\/company_extract"
+    },
+    {
+        "Country":"Israel",
+        "Document_Type":"Register Check",
+        "Price":52.57,
+        "Source":"Israeli Corporations Authority",
+        "Link":"https:\/\/www.gov.il\/en\/service\/company_extract"
+    },
+    {
+        "Country":"Israel",
+        "Document_Type":"Register Report",
+        "Price":58.5,
+        "Source":"Israeli Corporations Authority",
+        "Link":"https:\/\/www.gov.il\/en\/service\/company_extract"
+    },
+    {
+        "Country":"Israel",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Israeli Corporations Authority",
+        "Link":"https:\/\/www.gov.il\/en\/service\/company_extract"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Historical Report",
+        "Price":56,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Official Filings",
+        "Price":60,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Official Filings (Historical File)",
+        "Price":61,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Register Report",
+        "Price":5,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Official Fillings",
+        "Price":5.6,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Articles of Association",
+        "Price":7.56,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Italy",
+        "Document_Type":"Annual Accounts",
+        "Price":4.75,
+        "Source":"Business Register of the Italian Chambers of Commerce (InfoCamere)",
+        "Link":"https:\/\/italianbusinessregister.it\/en\/"
+    },
+    {
+        "Country":"Jamaica",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Companies Office of Jamaica",
+        "Link":"https:\/\/www.orcjamaica.com\/companySearch.aspx"
+    },
+    {
+        "Country":"Jamaica",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":96.4,
+        "Source":"Companies Office of Jamaica",
+        "Link":"https:\/\/www.orcjamaica.com\/companySearch.aspx"
+    },
+    {
+        "Country":"Japan",
+        "Document_Type":"Registration Details (Companies Regis)",
+        "Price":122,
+        "Source":"Financial Services Agency",
+        "Link":"https:\/\/www.houjin-bangou.nta.go.jp\/en\/index.html"
+    },
+    {
+        "Country":"Japan",
+        "Document_Type":"Registration Details (Ministry of Economy, Trade and Industry)",
+        "Price":50,
+        "Source":"Financial Services Agency",
+        "Link":"https:\/\/www.houjin-bangou.nta.go.jp\/en\/index.html"
+    },
+    {
+        "Country":"Japan",
+        "Document_Type":"Registration Details (Tokyo Sotck Exchange)",
+        "Price":50,
+        "Source":"Financial Services Agency",
+        "Link":"https:\/\/www.houjin-bangou.nta.go.jp\/en\/index.html"
+    },
+    {
+        "Country":"Japan",
+        "Document_Type":"Shareholders List (Tokyo Stock Exchange)",
+        "Price":50,
+        "Source":"Financial Services Agency",
+        "Link":"https:\/\/www.houjin-bangou.nta.go.jp\/en\/index.html"
+    },
+    {
+        "Country":"Japan",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Financial Services Agency",
+        "Link":"https:\/\/www.houjin-bangou.nta.go.jp\/en\/index.html"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":90,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Official Filings",
+        "Price":52.3,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Register Report",
+        "Price":52.3,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Register Check",
+        "Price":5.58,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Annual Accounts",
+        "Price":17.28,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jersey",
+        "Document_Type":"Articles of Association",
+        "Price":17.28,
+        "Source":"Jersey Financial Services Commission - Companies Registry",
+        "Link":"https:\/\/www.jerseyfsc.org\/registry\/registry-entities\/"
+    },
+    {
+        "Country":"Jordan",
+        "Document_Type":"Register Report",
+        "Price":3,
+        "Source":"Amman Chamber of Commerce",
+        "Link":"https:\/\/www.ccd.gov.jo\/En\/Pages\/eServices"
+    },
+    {
+        "Country":"Jordan",
+        "Document_Type":"Chronological Extract",
+        "Price":3,
+        "Source":"Amman Chamber of Commerce",
+        "Link":"https:\/\/www.ccd.gov.jo\/En\/Pages\/eServices"
+    },
+    {
+        "Country":"Kazakhstan",
+        "Document_Type":"Register Report",
+        "Price":90,
+        "Source":"National Register of Business Identification Codes (Ministry of Justice of the Republic of Kazakhstan)",
+        "Link":"https:\/\/egov.kz\/cms\/en\/services\/e_032"
+    },
+    {
+        "Country":"Kazakhstan",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Register of Business Identification Codes (Ministry of Justice of the Republic of Kazakhstan)",
+        "Link":"https:\/\/egov.kz\/cms\/en\/services\/e_032"
+    },
+    {
+        "Country":"Kenya",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Business Registration Service - Office of the Attorney General and Department of Justice",
+        "Link":"https:\/\/accounts.ecitizen.go.ke\/en"
+    },
+    {
+        "Country":"Korea, South",
+        "Document_Type":"Credit Check",
+        "Price":59.3,
+        "Source":"Korea Business Report",
+        "Link":"https:\/\/englishdart.fss.or.kr\/"
+    },
+    {
+        "Country":"Korea, South",
+        "Document_Type":"Credit Report",
+        "Price":96.4,
+        "Source":"Korea Business Report",
+        "Link":"https:\/\/englishdart.fss.or.kr\/"
+    },
+    {
+        "Country":"Korea, South",
+        "Document_Type":"Register Check (BIR)",
+        "Price":124.5,
+        "Source":"Korea Business Report",
+        "Link":"https:\/\/englishdart.fss.or.kr\/"
+    },
+    {
+        "Country":"Korea, South",
+        "Document_Type":"Register Report (Business Information Report)",
+        "Price":153,
+        "Source":"Korea Business Report",
+        "Link":"https:\/\/englishdart.fss.or.kr\/"
+    },
+    {
+        "Country":"Korea, South",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Korea Business Report",
+        "Link":"https:\/\/englishdart.fss.or.kr\/"
+    },
+    {
+        "Country":"Kosovo",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Business Registration Agency",
+        "Link":"https:\/\/arbk.rks-gov.net\/"
+    },
+    {
+        "Country":"Kuwait",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"KCCI - Kuwait Chamber of Commerce and Industry",
+        "Link":null
+    },
+    {
+        "Country":"Kyrgyzstan",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"United State Register of Legal Entities and Branches (Ministry of Justice of Kyrgyz Republic)",
+        "Link":null
+    },
+    {
+        "Country":"Lao People's Democratic Republic",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Enterprise Database",
+        "Link":"http:\/\/www.ned.moic.gov.la\/index.php\/en\/explore-data-en\/search"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Register Check",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Latvia",
+        "Document_Type":"Beneficial Owners Check",
+        "Price":0,
+        "Source":"Open Register of Beneficial Owners",
+        "Link":"https:\/\/www.ur.gov.lv\/en\/"
+    },
+    {
+        "Country":"Lebanon",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Commercial Register (Ministry of Commerce)",
+        "Link":"http:\/\/cr.justice.gov.lb\/"
+    },
+    {
+        "Country":"Lesotho",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Lesotho Ministry of Trade & Industry",
+        "Link":null
+    },
+    {
+        "Country":"Lesotho",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Lesotho Ministry of Trade & Industry",
+        "Link":null
+    },
+    {
+        "Country":"Liechtenstein",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Commercial Register",
+        "Link":"https:\/\/handelsregister.li\/cr-portal\/suche\/suche.xhtml"
+    },
+    {
+        "Country":"Liechtenstein",
+        "Document_Type":"Register Check",
+        "Price":63.8,
+        "Source":"Commercial Register",
+        "Link":"https:\/\/handelsregister.li\/cr-portal\/suche\/suche.xhtml"
+    },
+    {
+        "Country":"Liechtenstein",
+        "Document_Type":"Register Report",
+        "Price":95.9,
+        "Source":"Commercial Register",
+        "Link":"https:\/\/handelsregister.li\/cr-portal\/suche\/suche.xhtml"
+    },
+    {
+        "Country":"Lithuania",
+        "Document_Type":"Annual Accounts",
+        "Price":58.9,
+        "Source":"Register of Legal Entities (Registr\u0173 centras)",
+        "Link":"https:\/\/www.registrucentras.lt\/jar\/p_en\/"
+    },
+    {
+        "Country":"Lithuania",
+        "Document_Type":"Articles of Association",
+        "Price":60,
+        "Source":"Register of Legal Entities (Registr\u0173 centras)",
+        "Link":"https:\/\/www.registrucentras.lt\/jar\/p_en\/"
+    },
+    {
+        "Country":"Lithuania",
+        "Document_Type":"Register Report",
+        "Price":6.55,
+        "Source":"Register of Legal Entities (Registr\u0173 centras)",
+        "Link":"https:\/\/www.registrucentras.lt\/jar\/p_en\/"
+    },
+    {
+        "Country":"Lithuania",
+        "Document_Type":"Register Check",
+        "Price":5.68,
+        "Source":"Register of Legal Entities (Registr\u0173 centras)",
+        "Link":"https:\/\/www.registrucentras.lt\/jar\/p_en\/"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Register Report",
+        "Price":21.85,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Register Check",
+        "Price":13.38,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Annual Accounts",
+        "Price":5.58,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Articles of Association",
+        "Price":5.58,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Luxembourg",
+        "Document_Type":"Register Report",
+        "Price":4.3,
+        "Source":"The Business Register (RCS \u2013 \u2018Registre de Commerce et des Soci\u00e9t\u00e9s\u2019)",
+        "Link":"https:\/\/www.lbr.lu\/mjrcs\/jsp\/DisplayConsultDocumentsActionNotSecured.action?FROM_MENU=true&time=1734087331174&currentMenuLabel=menu.item.companyconsultation"
+    },
+    {
+        "Country":"Macao",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Directorate of Justice Affairs Services",
+        "Link":"https:\/\/www.ipim.gov.mo\/en\/business-investment\/macau-business-database\/#"
+    },
+    {
+        "Country":"Madagascar",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"RNCS-CM Madagascar",
+        "Link":null
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Annual Accounts (2 years)",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Annual Accounts (3 years)",
+        "Price":57.26,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":72,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Certificate of Registration",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Officers \/MD List",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Official Filings (registered address)",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Official Filings (shared capital)",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Shareholders List",
+        "Price":55.2,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Malaysia",
+        "Document_Type":"Register Report",
+        "Price":8.78,
+        "Source":"SSM - Companies Commission of Malaysia",
+        "Link":"https:\/\/www.ssm.com.my\/Pages\/e-Search.aspx"
+    },
+    {
+        "Country":"Maldives",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Business Portal - Ministry of Economic Development",
+        "Link":"https:\/\/business.egov.mv\/BusinessRegistry"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Annual Accounts",
+        "Price":55,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Annual Report",
+        "Price":52,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Articles of Association",
+        "Price":55,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":70,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Official Filings (other)",
+        "Price":51,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Official Filings (unregistered documents)",
+        "Price":51,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Register Check",
+        "Price":5.58,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Malta",
+        "Document_Type":"Register Report",
+        "Price":6.36,
+        "Source":"Malta Financial Services Authority - Registry of Companies",
+        "Link":"https:\/\/register.mbr.mt\/app\/query\/search_for_company"
+    },
+    {
+        "Country":"Marshall Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Marshall Islands International Registries",
+        "Link":"https:\/\/resources.register-iri.com\/CorpEntity\/Corporate\/Search;jsessionid=DWC_wL7Sx6Q21L6Q0DcRq7B89-3pTJFGhQzAZBB6HztVni2Z4nfe!1862912921"
+    },
+    {
+        "Country":"Martinique",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Mauritius",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"CBRD - Corporate and Business Registration Department",
+        "Link":"https:\/\/onlinesearch.mns.mu\/"
+    },
+    {
+        "Country":"Mexico",
+        "Document_Type":"Registration Details (Public Register of Commerce)",
+        "Price":0,
+        "Source":"Public Register of Commerce",
+        "Link":"https:\/\/rpc.economia.gob.mx\/siger2\/xhtml\/login\/login.xhtml;jsessionid=813ATJtoyq3zH1-2A-gaAMiALoHRGqaogkLtzmTLCrXy2uLjAr60!1610440411"
+    },
+    {
+        "Country":"Mexico",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Public Register of Commerce",
+        "Link":"https:\/\/rpc.economia.gob.mx\/siger2\/xhtml\/login\/login.xhtml;jsessionid=813ATJtoyq3zH1-2A-gaAMiALoHRGqaogkLtzmTLCrXy2uLjAr60!1610440411"
+    },
+    {
+        "Country":"Mexico",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Public Register of Commerce",
+        "Link":"https:\/\/rpc.economia.gob.mx\/siger2\/xhtml\/login\/login.xhtml;jsessionid=813ATJtoyq3zH1-2A-gaAMiALoHRGqaogkLtzmTLCrXy2uLjAr60!1610440411"
+    },
+    {
+        "Country":"Mexico",
+        "Document_Type":"Registration Details (SIEM)",
+        "Price":50,
+        "Source":"Public Register of Commerce",
+        "Link":"https:\/\/rpc.economia.gob.mx\/siger2\/xhtml\/login\/login.xhtml;jsessionid=813ATJtoyq3zH1-2A-gaAMiALoHRGqaogkLtzmTLCrXy2uLjAr60!1610440411"
+    },
+    {
+        "Country":"Moldova",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":null,
+        "Link":null
+    },
+    {
+        "Country":"Monaco",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"TRADE AND INDUSTRY DIRECTORY",
+        "Link":"https:\/\/teleservice.gouv.mc\/rci\/?lang=en"
+    },
+    {
+        "Country":"Mongolia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"State registration information of legal entities - General Authority of State Registration",
+        "Link":null
+    },
+    {
+        "Country":"Montenegro",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Central Registry of Business Entities",
+        "Link":"http:\/\/www.pretraga.crps.me:8083\/"
+    },
+    {
+        "Country":"Morocco",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Directinfo - Moroccan Office of Industrial and Commercial Property",
+        "Link":null
+    },
+    {
+        "Country":"Mozambique",
+        "Document_Type":"Certificate of Registration",
+        "Price":0,
+        "Source":"Registrar of Companies",
+        "Link":null
+    },
+    {
+        "Country":"Myanmar",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Myanmar Companies Online (MyCO) \u2013 Directorate of Investment and Company administration",
+        "Link":"https:\/\/www.myco.dica.gov.mm\/corp\/search.aspx"
+    },
+    {
+        "Country":"Namibia",
+        "Document_Type":"License Report",
+        "Price":0,
+        "Source":"Bank of Namibia",
+        "Link":"https:\/\/www.bipa.na\/search\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Historical Report",
+        "Price":5.6,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Official Filings (relations)",
+        "Price":8,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Register Report",
+        "Price":7.6,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Annual Accounts",
+        "Price":8.45,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"Netherlands",
+        "Document_Type":"Articles of Association",
+        "Price":8.45,
+        "Source":"Dutch Chamber of Commerce (KVK \u2013 \u2018Kamer van Koophandel\u2019)",
+        "Link":"https:\/\/www.kvk.nl\/zoeken\/"
+    },
+    {
+        "Country":"New Caledonia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"New Zealand",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Companies Office New Zealand",
+        "Link":"https:\/\/app.companiesoffice.govt.nz\/companies\/app\/ui\/pages\/companies\/search?advancedPanel=true"
+    },
+    {
+        "Country":"New Zealand",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Companies Office New Zealand",
+        "Link":"https:\/\/app.companiesoffice.govt.nz\/companies\/app\/ui\/pages\/companies\/search?advancedPanel=true"
+    },
+    {
+        "Country":"New Zealand",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Companies Office New Zealand",
+        "Link":"https:\/\/app.companiesoffice.govt.nz\/companies\/app\/ui\/pages\/companies\/search?advancedPanel=true"
+    },
+    {
+        "Country":"New Zealand",
+        "Document_Type":"Articles of Association",
+        "Price":4.8,
+        "Source":"Companies Office New Zealand",
+        "Link":"https:\/\/app.companiesoffice.govt.nz\/companies\/app\/ui\/pages\/companies\/search?advancedPanel=true"
+    },
+    {
+        "Country":"Nigeria",
+        "Document_Type":"Register Report",
+        "Price":52.56,
+        "Source":"The Nigerian Stock Exchange",
+        "Link":"https:\/\/search.cac.gov.ng\/home"
+    },
+    {
+        "Country":"Nigeria",
+        "Document_Type":"Shareholders List",
+        "Price":50,
+        "Source":"The Nigerian Stock Exchange",
+        "Link":"https:\/\/search.cac.gov.ng\/home"
+    },
+    {
+        "Country":"North Macedonia, Republic of",
+        "Document_Type":"Register Check",
+        "Price":10.15,
+        "Source":"Central Registry",
+        "Link":"https:\/\/crm.com.mk\/en"
+    },
+    {
+        "Country":"North Macedonia, Republic of",
+        "Document_Type":"Annual Accounts",
+        "Price":69,
+        "Source":"Central Registry",
+        "Link":"https:\/\/crm.com.mk\/en"
+    },
+    {
+        "Country":"North Macedonia, Republic of",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":55,
+        "Source":"Central Registry",
+        "Link":"https:\/\/crm.com.mk\/en"
+    },
+    {
+        "Country":"North Macedonia, Republic of",
+        "Document_Type":"Historical Report",
+        "Price":78,
+        "Source":"Central Registry",
+        "Link":"https:\/\/crm.com.mk\/en"
+    },
+    {
+        "Country":"North Macedonia, Republic of",
+        "Document_Type":"Register Report",
+        "Price":54.68,
+        "Source":"Central Registry",
+        "Link":"https:\/\/crm.com.mk\/en"
+    },
+    {
+        "Country":"Norway",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Register Centre (\u2018Br\u00f8nn\u00f8ysund\u2019)",
+        "Link":"https:\/\/virksomhet.brreg.no\/en\/oppslag\/enheter"
+    },
+    {
+        "Country":"Norway",
+        "Document_Type":"Articles of Association",
+        "Price":73,
+        "Source":"Register Centre (\u2018Br\u00f8nn\u00f8ysund\u2019)",
+        "Link":"https:\/\/virksomhet.brreg.no\/en\/oppslag\/enheter"
+    },
+    {
+        "Country":"Norway",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"Register Centre (\u2018Br\u00f8nn\u00f8ysund\u2019)",
+        "Link":"https:\/\/virksomhet.brreg.no\/en\/oppslag\/enheter"
+    },
+    {
+        "Country":"Norway",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Register Centre (\u2018Br\u00f8nn\u00f8ysund\u2019)",
+        "Link":"https:\/\/virksomhet.brreg.no\/en\/oppslag\/enheter"
+    },
+    {
+        "Country":"Norway",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Register Centre (\u2018Br\u00f8nn\u00f8ysund\u2019)",
+        "Link":"https:\/\/virksomhet.brreg.no\/en\/oppslag\/enheter"
+    },
+    {
+        "Country":"Oman",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Ministry of Commerce and Industry in Oman",
+        "Link":"https:\/\/www.business.gov.om\/portal\/searchEstablishments?execution=e1s1"
+    },
+    {
+        "Country":"Oman",
+        "Document_Type":"Register Report",
+        "Price":63.8,
+        "Source":"Ministry of Commerce and Industry in Oman",
+        "Link":"https:\/\/www.business.gov.om\/portal\/searchEstablishments?execution=e1s1"
+    },
+    {
+        "Country":"Panama",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Public Registry of Panama",
+        "Link":"https:\/\/www.rp.gob.pa\/"
+    },
+    {
+        "Country":"Panama",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Public Registry of Panama",
+        "Link":"https:\/\/www.rp.gob.pa\/"
+    },
+    {
+        "Country":"Papua New Guinea",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Investment Promotion Authority",
+        "Link":"https:\/\/www.ipa.gov.pg\/corp\/search.aspx"
+    },
+    {
+        "Country":"Papua New Guinea",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Investment Promotion Authority",
+        "Link":"https:\/\/www.ipa.gov.pg\/corp\/search.aspx"
+    },
+    {
+        "Country":"Peru",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"National Superintendency of Customs",
+        "Link":"https:\/\/www.sunarp.gob.pe\/bus-personas-juridicas.asp"
+    },
+    {
+        "Country":"Peru",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Superintendency of Customs",
+        "Link":"https:\/\/www.sunarp.gob.pe\/bus-personas-juridicas.asp"
+    },
+    {
+        "Country":"Philippines",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Securities and Exchange Commission Philippines",
+        "Link":"https:\/\/esearch.sec.gov.ph\/user\/login"
+    },
+    {
+        "Country":"Philippines",
+        "Document_Type":"Articles of Association",
+        "Price":60.7,
+        "Source":"Securities and Exchange Commission Philippines",
+        "Link":"https:\/\/esearch.sec.gov.ph\/user\/login"
+    },
+    {
+        "Country":"Philippines",
+        "Document_Type":"Annual Accounts",
+        "Price":61.9,
+        "Source":"Securities and Exchange Commission Philippines",
+        "Link":"https:\/\/esearch.sec.gov.ph\/user\/login"
+    },
+    {
+        "Country":"Philippines",
+        "Document_Type":"Official Filings",
+        "Price":55.5,
+        "Source":"Securities and Exchange Commission Philippines",
+        "Link":"https:\/\/esearch.sec.gov.ph\/user\/login"
+    },
+    {
+        "Country":"Poland",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":0,
+        "Source":"National Court Register (KRS)",
+        "Link":"https:\/\/wyszukiwarka-krs.ms.gov.pl\/"
+    },
+    {
+        "Country":"Poland",
+        "Document_Type":"Historical Report",
+        "Price":0,
+        "Source":"National Court Register (KRS)",
+        "Link":"https:\/\/wyszukiwarka-krs.ms.gov.pl\/"
+    },
+    {
+        "Country":"Poland",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Court Register (KRS)",
+        "Link":"https:\/\/wyszukiwarka-krs.ms.gov.pl\/"
+    },
+    {
+        "Country":"Poland",
+        "Document_Type":"Registration Details (REGON)",
+        "Price":0,
+        "Source":"National Court Register (KRS)",
+        "Link":"https:\/\/wyszukiwarka-krs.ms.gov.pl\/"
+    },
+    {
+        "Country":"Poland",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"National Court Register (KRS)",
+        "Link":"https:\/\/wyszukiwarka-krs.ms.gov.pl\/"
+    },
+    {
+        "Country":"Portugal",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Online company | commercial register services",
+        "Link":"https:\/\/registo.justica.gov.pt\/Empresas\/Pesquisar-nomes-firmas-ou-denominacoes-existentes\/Iniciar"
+    },
+    {
+        "Country":"Portugal",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Online company | commercial register services",
+        "Link":"https:\/\/registo.justica.gov.pt\/Empresas\/Pesquisar-nomes-firmas-ou-denominacoes-existentes\/Iniciar"
+    },
+    {
+        "Country":"Portugal",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Online company | commercial register services",
+        "Link":"https:\/\/registo.justica.gov.pt\/Empresas\/Pesquisar-nomes-firmas-ou-denominacoes-existentes\/Iniciar"
+    },
+    {
+        "Country":"Puerto Rico",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Registry of Corporations and Entities, Government of Puerto Rico",
+        "Link":"https:\/\/rceweb.estado.pr.gov\/en\/search"
+    },
+    {
+        "Country":"Puerto Rico",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":73.6,
+        "Source":"Registry of Corporations and Entities, Government of Puerto Rico",
+        "Link":"https:\/\/rceweb.estado.pr.gov\/en\/search"
+    },
+    {
+        "Country":"Puerto Rico",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Registry of Corporations and Entities, Government of Puerto Rico",
+        "Link":"https:\/\/rceweb.estado.pr.gov\/en\/search"
+    },
+    {
+        "Country":"Qatar",
+        "Document_Type":"Licence Report (Stock Exchange)",
+        "Price":50,
+        "Source":"Qatar Financial Centre Authority \u2013 Pubic Register",
+        "Link":"https:\/\/eservices.qfc.qa\/qfcpublicregister\/publicregister.aspx"
+    },
+    {
+        "Country":"Qatar",
+        "Document_Type":"Registration Details (Qatar Chamber of Commerce)",
+        "Price":50,
+        "Source":"Qatar Financial Centre Authority \u2013 Pubic Register",
+        "Link":"https:\/\/eservices.qfc.qa\/qfcpublicregister\/publicregister.aspx"
+    },
+    {
+        "Country":"Qatar",
+        "Document_Type":"Registration Details (Qatar Financial Centre Authority)",
+        "Price":50,
+        "Source":"Qatar Financial Centre Authority \u2013 Pubic Register",
+        "Link":"https:\/\/eservices.qfc.qa\/qfcpublicregister\/publicregister.aspx"
+    },
+    {
+        "Country":"R\u00e9union",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Romania",
+        "Document_Type":"Register Report",
+        "Price":4,
+        "Source":"National Trade Register Office",
+        "Link":"https:\/\/myportal.onrc.ro\/home"
+    },
+    {
+        "Country":"Russian Federation",
+        "Document_Type":"Shareholders List",
+        "Price":67,
+        "Source":"Companies Registry",
+        "Link":"https:\/\/egrul.nalog.ru\/index.html"
+    },
+    {
+        "Country":"Russian Federation",
+        "Document_Type":"Register Report",
+        "Price":13.2,
+        "Source":"Companies Registry",
+        "Link":"https:\/\/egrul.nalog.ru\/index.html"
+    },
+    {
+        "Country":"Russian Federation",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Companies Registry",
+        "Link":"https:\/\/egrul.nalog.ru\/index.html"
+    },
+    {
+        "Country":"Saint Kitts and Nevis",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":124.5,
+        "Source":"Financial Services Regulatory Commission, St. Kitts Branch",
+        "Link":null
+    },
+    {
+        "Country":"Saint Kitts and Nevis",
+        "Document_Type":"License Report",
+        "Price":0,
+        "Source":"Financial Services Regulatory Commission, St. Kitts Branch",
+        "Link":null
+    },
+    {
+        "Country":"Saint Pierre and Miquelon",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Institut National de la Statistique et des Etudes Economiques (Insee)",
+        "Link":"https:\/\/www.infogreffe.fr\/"
+    },
+    {
+        "Country":"Samoa",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Ministry of Commerce, Industry & Labour \u2013 Samoa",
+        "Link":"https:\/\/www.businessregistries.gov.ws\/samoa-br-companies\/viewInstance\/view.html?id=3729e4694cee83de20eb808637ff90e2078833e1d748eff99089051339ed152c&_timestamp=1324018686649368"
+    },
+    {
+        "Country":"Samoa",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Ministry of Commerce, Industry & Labour \u2013 Samoa",
+        "Link":"https:\/\/www.businessregistries.gov.ws\/samoa-br-companies\/viewInstance\/view.html?id=3729e4694cee83de20eb808637ff90e2078833e1d748eff99089051339ed152c&_timestamp=1324018686649368"
+    },
+    {
+        "Country":"Samoa",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Ministry of Commerce, Industry & Labour \u2013 Samoa",
+        "Link":"https:\/\/www.businessregistries.gov.ws\/samoa-br-companies\/viewInstance\/view.html?id=3729e4694cee83de20eb808637ff90e2078833e1d748eff99089051339ed152c&_timestamp=1324018686649368"
+    },
+    {
+        "Country":"San Marino",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Registry of Companies",
+        "Link":"https:\/\/www.camcom.sm\/en\/registers-and-services\/registers\/trade-register\/"
+    },
+    {
+        "Country":"San Marino",
+        "Document_Type":"Annual Accounts",
+        "Price":53,
+        "Source":"Registry of Companies",
+        "Link":"https:\/\/www.camcom.sm\/en\/registers-and-services\/registers\/trade-register\/"
+    },
+    {
+        "Country":"Saudi Arabia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Ministry of Commerce",
+        "Link":"https:\/\/mc.gov.sa\/ar\/eservices\/Pages\/Commercial-data.aspx"
+    },
+    {
+        "Country":"Serbia",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Agency for Business Registers",
+        "Link":"https:\/\/pretraga.apr.gov.rs\/search"
+    },
+    {
+        "Country":"Serbia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Agency for Business Registers",
+        "Link":"https:\/\/pretraga.apr.gov.rs\/search"
+    },
+    {
+        "Country":"Seychelles",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Seychelles Financial Services Authority",
+        "Link":null
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Annual Accounts",
+        "Price":66.8,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Articles of Association",
+        "Price":66.8,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":57,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Certificate of Registration",
+        "Price":81.8,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"License Report",
+        "Price":50,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Officers \/MD List",
+        "Price":62.7,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Official Filings (registration of charge)",
+        "Price":81.8,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Register Check",
+        "Price":60.5,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Register Report",
+        "Price":81.8,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Registration Details (ACRA)",
+        "Price":53.5,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Singapore",
+        "Document_Type":"Registration Details (Stock Exchange)",
+        "Price":50,
+        "Source":"Business Filing Portal of ACRA (Government of Singapore)",
+        "Link":"https:\/\/www.bizfile.gov.sg\/"
+    },
+    {
+        "Country":"Slovakia",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Register of Financial Statements (Ministry of Finance of the Slovak Republic)",
+        "Link":"https:\/\/www.orsr.sk\/Default.asp?lan=en"
+    },
+    {
+        "Country":"Slovakia",
+        "Document_Type":"Historical Report",
+        "Price":50,
+        "Source":"Register of Financial Statements (Ministry of Finance of the Slovak Republic)",
+        "Link":"https:\/\/www.orsr.sk\/Default.asp?lan=en"
+    },
+    {
+        "Country":"Slovakia",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Register of Financial Statements (Ministry of Finance of the Slovak Republic)",
+        "Link":"https:\/\/www.orsr.sk\/Default.asp?lan=en"
+    },
+    {
+        "Country":"Slovakia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Register of Financial Statements (Ministry of Finance of the Slovak Republic)",
+        "Link":"https:\/\/www.orsr.sk\/Default.asp?lan=en"
+    },
+    {
+        "Country":"Slovenia",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":50,
+        "Source":"Agency of the Republic of Slovenia for Public Legal Records and Related Services",
+        "Link":"https:\/\/www.ajpes.si\/?language=english"
+    },
+    {
+        "Country":"Slovenia",
+        "Document_Type":"Register Report",
+        "Price":13.69,
+        "Source":"Agency of the Republic of Slovenia for Public Legal Records and Related Services",
+        "Link":"https:\/\/www.ajpes.si\/?language=english"
+    },
+    {
+        "Country":"Slovenia",
+        "Document_Type":"Register Check",
+        "Price":8.86,
+        "Source":"Agency of the Republic of Slovenia for Public Legal Records and Related Services",
+        "Link":"https:\/\/www.ajpes.si\/?language=english"
+    },
+    {
+        "Country":"Slovenia",
+        "Document_Type":"Annual Accounts",
+        "Price":17.28,
+        "Source":"Agency of the Republic of Slovenia for Public Legal Records and Related Services",
+        "Link":"https:\/\/www.ajpes.si\/?language=english"
+    },
+    {
+        "Country":"Solomon Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Solomon Islands Business Registry",
+        "Link":"https:\/\/www.solomonbusinessregistry.gov.sb\/sb-master\/viewInstance\/view.html?id=2e379181f6b2118576b90ccb357f119e5b7d88d038d206ec&_timestamp=1324653770108693"
+    },
+    {
+        "Country":"Solomon Islands",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Solomon Islands Business Registry",
+        "Link":"https:\/\/www.solomonbusinessregistry.gov.sb\/sb-master\/viewInstance\/view.html?id=2e379181f6b2118576b90ccb357f119e5b7d88d038d206ec&_timestamp=1324653770108693"
+    },
+    {
+        "Country":"South Africa",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Companies and Intellectual Property Commission - eServices",
+        "Link":"https:\/\/eservices.cipc.co.za\/Search.aspx"
+    },
+    {
+        "Country":"South Africa",
+        "Document_Type":"Register Report",
+        "Price":51.8,
+        "Source":"Companies and Intellectual Property Commission - eServices",
+        "Link":"https:\/\/eservices.cipc.co.za\/Search.aspx"
+    },
+    {
+        "Country":"Spain",
+        "Document_Type":"Register Report",
+        "Price":21.34,
+        "Source":"Business Registry (\u2018Registros Mercantiles\u2019)",
+        "Link":"https:\/\/opendata.registradores.org\/directorio"
+    },
+    {
+        "Country":"Spain",
+        "Document_Type":"Register Check",
+        "Price":11.2,
+        "Source":"Business Registry (\u2018Registros Mercantiles\u2019)",
+        "Link":"https:\/\/opendata.registradores.org\/directorio"
+    },
+    {
+        "Country":"Spain",
+        "Document_Type":"Annual Accounts",
+        "Price":28.94,
+        "Source":"Business Registry (\u2018Registros Mercantiles\u2019)",
+        "Link":"https:\/\/opendata.registradores.org\/directorio"
+    },
+    {
+        "Country":"Sweden",
+        "Document_Type":"Beneficial Owners Report",
+        "Price":10.8,
+        "Source":"Swedish Companies Registration Office (\u2018Bolagsverket\u2019)",
+        "Link":"https:\/\/foretagsinfo.bolagsverket.se\/sok-foretagsinformation-web\/foretag"
+    },
+    {
+        "Country":"Sweden",
+        "Document_Type":"Officers \/MD List",
+        "Price":6.4,
+        "Source":"Swedish Companies Registration Office (\u2018Bolagsverket\u2019)",
+        "Link":"https:\/\/foretagsinfo.bolagsverket.se\/sok-foretagsinformation-web\/foretag"
+    },
+    {
+        "Country":"Sweden",
+        "Document_Type":"Articles of Association",
+        "Price":6.28,
+        "Source":"Swedish Companies Registration Office (\u2018Bolagsverket\u2019)",
+        "Link":"https:\/\/foretagsinfo.bolagsverket.se\/sok-foretagsinformation-web\/foretag"
+    },
+    {
+        "Country":"Sweden",
+        "Document_Type":"Annual Accounts",
+        "Price":6.4,
+        "Source":"Swedish Companies Registration Office (\u2018Bolagsverket\u2019)",
+        "Link":"https:\/\/foretagsinfo.bolagsverket.se\/sok-foretagsinformation-web\/foretag"
+    },
+    {
+        "Country":"Sweden",
+        "Document_Type":"Official Fillings",
+        "Price":53.8,
+        "Source":"Swedish Companies Registration Office (\u2018Bolagsverket\u2019)",
+        "Link":"https:\/\/foretagsinfo.bolagsverket.se\/sok-foretagsinformation-web\/foretag"
+    },
+    {
+        "Country":"Switzerland",
+        "Document_Type":"Articles of Association",
+        "Price":78.5,
+        "Source":"Bisnode",
+        "Link":"https:\/\/www.zefix.admin.ch\/en\/search\/entity\/welcome"
+    },
+    {
+        "Country":"Switzerland",
+        "Document_Type":"Register Report",
+        "Price":4.8,
+        "Source":"Bisnode",
+        "Link":"https:\/\/www.zefix.admin.ch\/en\/search\/entity\/welcome"
+    },
+    {
+        "Country":"Taiwan",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Ministry of Economic Affairs",
+        "Link":"https:\/\/findbiz.nat.gov.tw\/fts\/query\/QueryList\/queryList.do"
+    },
+    {
+        "Country":"Taiwan",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Ministry of Economic Affairs",
+        "Link":"https:\/\/findbiz.nat.gov.tw\/fts\/query\/QueryList\/queryList.do"
+    },
+    {
+        "Country":"Tajikistan",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Tajikistan State Register of Legal Entities and Individual Entrepreneurs (Tax Committee under the Government of Republic of Tajikistan)",
+        "Link":null
+    },
+    {
+        "Country":"Thailand",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"DBD Data Warehouse (Department of Business Development Ministry of Commerce)",
+        "Link":"https:\/\/dbdregcom.dbd.go.th\/regc-iq\/"
+    },
+    {
+        "Country":"Thailand",
+        "Document_Type":"Annual Accounts",
+        "Price":3,
+        "Source":"DBD Data Warehouse (Department of Business Development Ministry of Commerce)",
+        "Link":"https:\/\/dbdregcom.dbd.go.th\/regc-iq\/"
+    },
+    {
+        "Country":"Togo",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Center for Business Formalities (CFE)",
+        "Link":null
+    },
+    {
+        "Country":"Togo",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Center for Business Formalities (CFE)",
+        "Link":null
+    },
+    {
+        "Country":"Tonga",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Business Registries Office Kingdom of Tonga",
+        "Link":"https:\/\/www.businessregistries.gov.to\/corp\/search.aspx"
+    },
+    {
+        "Country":"Tonga",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Business Registries Office Kingdom of Tonga",
+        "Link":"https:\/\/www.businessregistries.gov.to\/corp\/search.aspx"
+    },
+    {
+        "Country":"Tonga",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Business Registries Office Kingdom of Tonga",
+        "Link":"https:\/\/www.businessregistries.gov.to\/corp\/search.aspx"
+    },
+    {
+        "Country":"Tunisia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Business Register",
+        "Link":"https:\/\/www.registre-entreprises.tn\/rne-public\/#\/recherche-pm"
+    },
+    {
+        "Country":"Turkey",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"PDP - Public Disclosure Platform (Capital markets and Borsa Istanbul)",
+        "Link":"https:\/\/www.ticaretsicil.gov.tr\/index.php"
+    },
+    {
+        "Country":"Turkey",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"PDP - Public Disclosure Platform (Capital markets and Borsa Istanbul)",
+        "Link":"https:\/\/www.ticaretsicil.gov.tr\/index.php"
+    },
+    {
+        "Country":"Turkey",
+        "Document_Type":"Registration Details (Chamber of Commerce)",
+        "Price":0,
+        "Source":"PDP - Public Disclosure Platform (Capital markets and Borsa Istanbul)",
+        "Link":"https:\/\/www.ticaretsicil.gov.tr\/index.php"
+    },
+    {
+        "Country":"Turkey",
+        "Document_Type":"Registration Details (KAP)",
+        "Price":0,
+        "Source":"PDP - Public Disclosure Platform (Capital markets and Borsa Istanbul)",
+        "Link":"https:\/\/www.ticaretsicil.gov.tr\/index.php"
+    },
+    {
+        "Country":"Turkey",
+        "Document_Type":"Registration Details (MERSIS)",
+        "Price":0,
+        "Source":"PDP - Public Disclosure Platform (Capital markets and Borsa Istanbul)",
+        "Link":"https:\/\/www.ticaretsicil.gov.tr\/index.php"
+    },
+    {
+        "Country":"Turks and Caicos Islands",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Financial Services Commission",
+        "Link":null
+    },
+    {
+        "Country":"Turks and Caicos Islands",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":96.4,
+        "Source":"Financial Services Commission",
+        "Link":null
+    },
+    {
+        "Country":"Ukraine",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Unified State Register of Legal Entities, Individual Entrepreneurs and Public Associations",
+        "Link":"https:\/\/usr.minjust.gov.ua\/content\/free-search"
+    },
+    {
+        "Country":"United Arab Emirates",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"National Economic Register - UAE Ministry of Economy",
+        "Link":"https:\/\/ner.economy.ae\/Search_By_BN.aspx"
+    },
+    {
+        "Country":"United Arab Emirates",
+        "Document_Type":"Register Check",
+        "Price":0,
+        "Source":"National Economic Register - UAE Ministry of Economy",
+        "Link":"https:\/\/ner.economy.ae\/Search_By_BN.aspx"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Register Report",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Annual Accounts",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Shareholder List",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Articles of Association",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Official Fillings",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"United Kingdom",
+        "Document_Type":"Beneficial Owners Check",
+        "Price":0,
+        "Source":"Companies House United Kingdom",
+        "Link":"https:\/\/find-and-update.company-information.service.gov.uk\/"
+    },
+    {
+        "Country":"Uruguay",
+        "Document_Type":"Company Certificate",
+        "Price":151.8,
+        "Source":"Banco Central Del Uruguay",
+        "Link":null
+    },
+    {
+        "Country":"Uruguay",
+        "Document_Type":"License Report",
+        "Price":0,
+        "Source":"Banco Central Del Uruguay",
+        "Link":null
+    },
+    {
+        "Country":"Uruguay",
+        "Document_Type":"Annual Accounts",
+        "Price":50,
+        "Source":"Banco Central Del Uruguay",
+        "Link":null
+    },
+    {
+        "Country":"Uruguay",
+        "Document_Type":"Shareholders List",
+        "Price":50,
+        "Source":"Banco Central Del Uruguay",
+        "Link":null
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Register Report",
+        "Price":77.9,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":77.9,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Official Filings",
+        "Price":73.2,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Annual Report",
+        "Price":57,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Articles of Association",
+        "Price":57,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US- U.S. Virgin Islands (Territories)",
+        "Document_Type":"Officers \/MD List",
+        "Price":73.2,
+        "Source":"Office of the Lieutenant Governor - United States Virgin Islands",
+        "Link":"https:\/\/www.corporationsandtrademarks.vi.gov\/usvi-master\/viewInstance\/view.html?id=f17985a3ec3617a0c00c8788427fde7ff01beb11ed71ffe7&_timestamp=928558065750105"
+    },
+    {
+        "Country":"US-Alabama",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Alabama Secretary of State",
+        "Link":"https:\/\/www.sos.alabama.gov\/government-records\/business-entity-records"
+    },
+    {
+        "Country":"US-Alabama",
+        "Document_Type":"Articles of Association",
+        "Price":59.3,
+        "Source":"Alabama Secretary of State",
+        "Link":"https:\/\/www.sos.alabama.gov\/government-records\/business-entity-records"
+    },
+    {
+        "Country":"US-Alabama",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Alabama Secretary of State",
+        "Link":"https:\/\/www.sos.alabama.gov\/government-records\/business-entity-records"
+    },
+    {
+        "Country":"US-Alaska",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Department of Commerce, Community and Economic Development",
+        "Link":"https:\/\/www.commerce.alaska.gov\/cbp\/main\/search\/entities"
+    },
+    {
+        "Country":"US-Alaska",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Department of Commerce, Community and Economic Development",
+        "Link":"https:\/\/www.commerce.alaska.gov\/cbp\/main\/search\/entities"
+    },
+    {
+        "Country":"US-Alaska",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Department of Commerce, Community and Economic Development",
+        "Link":"https:\/\/www.commerce.alaska.gov\/cbp\/main\/search\/entities"
+    },
+    {
+        "Country":"US-Alaska",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Department of Commerce, Community and Economic Development",
+        "Link":"https:\/\/www.commerce.alaska.gov\/cbp\/main\/search\/entities"
+    },
+    {
+        "Country":"US-Arizona",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"ACC - Arizona Corporations Commission",
+        "Link":"https:\/\/apps.azsos.gov\/apps\/tntp\/se.html"
+    },
+    {
+        "Country":"US-Arizona",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"ACC - Arizona Corporations Commission",
+        "Link":"https:\/\/apps.azsos.gov\/apps\/tntp\/se.html"
+    },
+    {
+        "Country":"US-Arizona",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"ACC - Arizona Corporations Commission",
+        "Link":"https:\/\/apps.azsos.gov\/apps\/tntp\/se.html"
+    },
+    {
+        "Country":"US-Arkansas",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":76,
+        "Source":"Business & Commercial Services Arkansas",
+        "Link":"https:\/\/www.ark.org\/corp-search\/index.php"
+    },
+    {
+        "Country":"US-Arkansas",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Business & Commercial Services Arkansas",
+        "Link":"https:\/\/www.ark.org\/corp-search\/index.php"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Articles of Association",
+        "Price":3,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Articles of Incorporation",
+        "Price":50,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-California",
+        "Document_Type":"Registration Details",
+        "Price":54.65,
+        "Source":"California Secretary of State",
+        "Link":"https:\/\/bizfileonline.sos.ca.gov\/search\/business"
+    },
+    {
+        "Country":"US-Colorado",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Colorado Secretary of State",
+        "Link":"https:\/\/www.sos.state.co.us\/biz\/BusinessEntityCriteriaExt.do"
+    },
+    {
+        "Country":"US-Colorado",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":50,
+        "Source":"Colorado Secretary of State",
+        "Link":"https:\/\/www.sos.state.co.us\/biz\/BusinessEntityCriteriaExt.do"
+    },
+    {
+        "Country":"US-Colorado",
+        "Document_Type":"Official Filings (statement of change)",
+        "Price":50,
+        "Source":"Colorado Secretary of State",
+        "Link":"https:\/\/www.sos.state.co.us\/biz\/BusinessEntityCriteriaExt.do"
+    },
+    {
+        "Country":"US-Colorado",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Colorado Secretary of State",
+        "Link":"https:\/\/www.sos.state.co.us\/biz\/BusinessEntityCriteriaExt.do"
+    },
+    {
+        "Country":"US-Connecticut",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Connecticut Secretary of State -Connecticut Business Registry Search",
+        "Link":"https:\/\/service.ct.gov\/business\/s\/onlinebusinesssearch?language=en_US"
+    },
+    {
+        "Country":"US-Connecticut",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Connecticut Secretary of State -Connecticut Business Registry Search",
+        "Link":"https:\/\/service.ct.gov\/business\/s\/onlinebusinesssearch?language=en_US"
+    },
+    {
+        "Country":"US-Delaware",
+        "Document_Type":"Registration Details",
+        "Price":21.24,
+        "Source":"Delaware Division of Corporations",
+        "Link":"https:\/\/icis.corp.delaware.gov\/ecorp\/entitysearch\/namesearch.aspx"
+    },
+    {
+        "Country":"US-District of Columbia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Department of Consumer and Regulatory Affairs",
+        "Link":"https:\/\/corponline.dlcp.dc.gov\/Home.aspx\/Landing"
+    },
+    {
+        "Country":"US-Florida",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Florida Department of Corporations",
+        "Link":"https:\/\/search.sunbiz.org\/Inquiry\/CorporationSearch\/ByName"
+    },
+    {
+        "Country":"US-Florida",
+        "Document_Type":"Articles of Association",
+        "Price":3,
+        "Source":"Florida Department of Corporations",
+        "Link":"https:\/\/search.sunbiz.org\/Inquiry\/CorporationSearch\/ByName"
+    },
+    {
+        "Country":"US-Florida",
+        "Document_Type":"Annual Report",
+        "Price":3,
+        "Source":"Florida Department of Corporations",
+        "Link":"https:\/\/search.sunbiz.org\/Inquiry\/CorporationSearch\/ByName"
+    },
+    {
+        "Country":"US-Florida",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Florida Department of Corporations",
+        "Link":"https:\/\/search.sunbiz.org\/Inquiry\/CorporationSearch\/ByName"
+    },
+    {
+        "Country":"US-Georgia",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Georgia Secretary of State, Division of Corporations",
+        "Link":"https:\/\/ecorp.sos.ga.gov\/businesssearch"
+    },
+    {
+        "Country":"US-Georgia",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Georgia Secretary of State, Division of Corporations",
+        "Link":"https:\/\/ecorp.sos.ga.gov\/businesssearch"
+    },
+    {
+        "Country":"US-Georgia",
+        "Document_Type":"Official Filings (name change history)",
+        "Price":50,
+        "Source":"Georgia Secretary of State, Division of Corporations",
+        "Link":"https:\/\/ecorp.sos.ga.gov\/businesssearch"
+    },
+    {
+        "Country":"US-Georgia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Georgia Secretary of State, Division of Corporations",
+        "Link":"https:\/\/ecorp.sos.ga.gov\/businesssearch"
+    },
+    {
+        "Country":"US-Hawaii",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":57,
+        "Source":"Department of Commerce & Consumer Affairs, Bsuiness Registration Division",
+        "Link":"https:\/\/hbe.ehawaii.gov\/documents\/search.html"
+    },
+    {
+        "Country":"US-Hawaii",
+        "Document_Type":"Official Filings",
+        "Price":52.8,
+        "Source":"Department of Commerce & Consumer Affairs, Bsuiness Registration Division",
+        "Link":"https:\/\/hbe.ehawaii.gov\/documents\/search.html"
+    },
+    {
+        "Country":"US-Hawaii",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Department of Commerce & Consumer Affairs, Bsuiness Registration Division",
+        "Link":"https:\/\/hbe.ehawaii.gov\/documents\/search.html"
+    },
+    {
+        "Country":"US-Idaho",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Business Services (Secretary of State)",
+        "Link":"https:\/\/sosbiz.idaho.gov\/search\/business?utm_source=google&utm_medium=cpc&utm_campaign=Google_Search_Brand_EU_Alpha&utm_content=Trial&utm_device=c&utm_placement=&utm_term=pandadoc%2Btrial&utm_creative=499905794079&gclid=Cj0KCQiA67CrBhC1ARIsACKAa8Sjog_AsiaWNFji49gfPYRZ6U7j1dNIdYxILaawX9eW4nTgXKHnf2IaAogvEALw_wcB&utm_c%2525252520ontent=88677939"
+    },
+    {
+        "Country":"US-Idaho",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Business Services (Secretary of State)",
+        "Link":"https:\/\/sosbiz.idaho.gov\/search\/business?utm_source=google&utm_medium=cpc&utm_campaign=Google_Search_Brand_EU_Alpha&utm_content=Trial&utm_device=c&utm_placement=&utm_term=pandadoc%2Btrial&utm_creative=499905794079&gclid=Cj0KCQiA67CrBhC1ARIsACKAa8Sjog_AsiaWNFji49gfPYRZ6U7j1dNIdYxILaawX9eW4nTgXKHnf2IaAogvEALw_wcB&utm_c%2525252520ontent=88677939"
+    },
+    {
+        "Country":"US-Idaho",
+        "Document_Type":"Registration Details",
+        "Price":59.3,
+        "Source":"Business Services (Secretary of State)",
+        "Link":"https:\/\/sosbiz.idaho.gov\/search\/business?utm_source=google&utm_medium=cpc&utm_campaign=Google_Search_Brand_EU_Alpha&utm_content=Trial&utm_device=c&utm_placement=&utm_term=pandadoc%2Btrial&utm_creative=499905794079&gclid=Cj0KCQiA67CrBhC1ARIsACKAa8Sjog_AsiaWNFji49gfPYRZ6U7j1dNIdYxILaawX9eW4nTgXKHnf2IaAogvEALw_wcB&utm_c%2525252520ontent=88677939"
+    },
+    {
+        "Country":"US-Illinois",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":73.2,
+        "Source":"Office of the Secretary of State",
+        "Link":"https:\/\/www.illinois.gov\/services\/service.llc-name.html"
+    },
+    {
+        "Country":"US-Illinois",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Office of the Secretary of State",
+        "Link":"https:\/\/www.illinois.gov\/services\/service.llc-name.html"
+    },
+    {
+        "Country":"US-Indiana",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Indiana Government Center (INBiz.)",
+        "Link":"https:\/\/bsd.sos.in.gov\/publicbusinesssearch"
+    },
+    {
+        "Country":"US-Indiana",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Indiana Government Center (INBiz.)",
+        "Link":"https:\/\/bsd.sos.in.gov\/publicbusinesssearch"
+    },
+    {
+        "Country":"US-Indiana",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Indiana Government Center (INBiz.)",
+        "Link":"https:\/\/bsd.sos.in.gov\/publicbusinesssearch"
+    },
+    {
+        "Country":"US-Iowa",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Iowa Secretary of State",
+        "Link":"https:\/\/sos.iowa.gov\/search\/business\/search.aspx"
+    },
+    {
+        "Country":"US-Iowa",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Iowa Secretary of State",
+        "Link":"https:\/\/sos.iowa.gov\/search\/business\/search.aspx"
+    },
+    {
+        "Country":"US-Iowa",
+        "Document_Type":"Register Report",
+        "Price":54.65,
+        "Source":"Iowa Secretary of State",
+        "Link":"https:\/\/sos.iowa.gov\/search\/business\/search.aspx"
+    },
+    {
+        "Country":"US-Iowa",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Iowa Secretary of State",
+        "Link":"https:\/\/sos.iowa.gov\/search\/business\/search.aspx"
+    },
+    {
+        "Country":"US-Kansas",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Secretary of State's office - Business Entity Search Station (BESS)",
+        "Link":"https:\/\/www.sos.ks.gov\/eforms\/BusinessEntity\/Search.aspx"
+    },
+    {
+        "Country":"US-Kansas",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":59.3,
+        "Source":"Secretary of State's office - Business Entity Search Station (BESS)",
+        "Link":"https:\/\/www.sos.ks.gov\/eforms\/BusinessEntity\/Search.aspx"
+    },
+    {
+        "Country":"US-Kansas",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Secretary of State's office - Business Entity Search Station (BESS)",
+        "Link":"https:\/\/www.sos.ks.gov\/eforms\/BusinessEntity\/Search.aspx"
+    },
+    {
+        "Country":"US-Kentucky",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Kentucky Secretary of State",
+        "Link":"https:\/\/web.sos.ky.gov\/bussearchnprofile\/search.aspx"
+    },
+    {
+        "Country":"US-Kentucky",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Kentucky Secretary of State",
+        "Link":"https:\/\/web.sos.ky.gov\/bussearchnprofile\/search.aspx"
+    },
+    {
+        "Country":"US-Kentucky",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Kentucky Secretary of State",
+        "Link":"https:\/\/web.sos.ky.gov\/bussearchnprofile\/search.aspx"
+    },
+    {
+        "Country":"US-Kentucky",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Kentucky Secretary of State",
+        "Link":"https:\/\/web.sos.ky.gov\/bussearchnprofile\/search.aspx"
+    },
+    {
+        "Country":"US-Kentucky",
+        "Document_Type":"Registration Details",
+        "Price":59.3,
+        "Source":"Kentucky Secretary of State",
+        "Link":"https:\/\/web.sos.ky.gov\/bussearchnprofile\/search.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":68.6,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Official Filings (Duplicate Original Certificate)",
+        "Price":68.6,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Official Filings (Original Documents)",
+        "Price":64,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Register Check",
+        "Price":68.6,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Louisiana",
+        "Document_Type":"Registration Details",
+        "Price":68.6,
+        "Source":"Louisiana Secretary of State - Commercial Division",
+        "Link":"https:\/\/coraweb.sos.la.gov\/CommercialSearch\/CommercialSearch.aspx"
+    },
+    {
+        "Country":"US-Maine",
+        "Document_Type":"Annual Report",
+        "Price":52.8,
+        "Source":"Bureau of Corporations, Elections and Commissions",
+        "Link":"https:\/\/apps3.web.maine.gov\/nei-sos-icrs\/ICRS?MainPage=x"
+    },
+    {
+        "Country":"US-Maine",
+        "Document_Type":"Official Filings",
+        "Price":52.8,
+        "Source":"Bureau of Corporations, Elections and Commissions",
+        "Link":"https:\/\/apps3.web.maine.gov\/nei-sos-icrs\/ICRS?MainPage=x"
+    },
+    {
+        "Country":"US-Maine",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Bureau of Corporations, Elections and Commissions",
+        "Link":"https:\/\/apps3.web.maine.gov\/nei-sos-icrs\/ICRS?MainPage=x"
+    },
+    {
+        "Country":"US-Maine",
+        "Document_Type":"Registration Details",
+        "Price":77.9,
+        "Source":"Bureau of Corporations, Elections and Commissions",
+        "Link":"https:\/\/apps3.web.maine.gov\/nei-sos-icrs\/ICRS?MainPage=x"
+    },
+    {
+        "Country":"US-Maryland",
+        "Document_Type":"Official Filings",
+        "Price":50,
+        "Source":"Maryland Department of Assessments & Taxation",
+        "Link":"https:\/\/egov.maryland.gov\/businessexpress\/entitysearch"
+    },
+    {
+        "Country":"US-Maryland",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Maryland Department of Assessments & Taxation",
+        "Link":"https:\/\/egov.maryland.gov\/businessexpress\/entitysearch"
+    },
+    {
+        "Country":"US-Maryland",
+        "Document_Type":"Registration Details",
+        "Price":68.6,
+        "Source":"Maryland Department of Assessments & Taxation",
+        "Link":"https:\/\/egov.maryland.gov\/businessexpress\/entitysearch"
+    },
+    {
+        "Country":"US-Massachusetts",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Secretary of the Commonwealth of Massachusetts",
+        "Link":"https:\/\/corp.sec.state.ma.us\/corpweb\/CorpSearch\/CorpSearch.aspx"
+    },
+    {
+        "Country":"US-Massachusetts",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":61.15,
+        "Source":"Secretary of the Commonwealth of Massachusetts",
+        "Link":"https:\/\/corp.sec.state.ma.us\/corpweb\/CorpSearch\/CorpSearch.aspx"
+    },
+    {
+        "Country":"US-Massachusetts",
+        "Document_Type":"Official Filings",
+        "Price":61.15,
+        "Source":"Secretary of the Commonwealth of Massachusetts",
+        "Link":"https:\/\/corp.sec.state.ma.us\/corpweb\/CorpSearch\/CorpSearch.aspx"
+    },
+    {
+        "Country":"US-Massachusetts",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Secretary of the Commonwealth of Massachusetts",
+        "Link":"https:\/\/corp.sec.state.ma.us\/corpweb\/CorpSearch\/CorpSearch.aspx"
+    },
+    {
+        "Country":"US-Michigan",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"State of Michigan Corporations Division - Corporations Online Filing System - Department of Licensing and Regulatory Affairs",
+        "Link":"https:\/\/cofs.lara.state.mi.us\/SearchApi\/Search\/Search"
+    },
+    {
+        "Country":"US-Michigan",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"State of Michigan Corporations Division - Corporations Online Filing System - Department of Licensing and Regulatory Affairs",
+        "Link":"https:\/\/cofs.lara.state.mi.us\/SearchApi\/Search\/Search"
+    },
+    {
+        "Country":"US-Michigan",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":59.3,
+        "Source":"State of Michigan Corporations Division - Corporations Online Filing System - Department of Licensing and Regulatory Affairs",
+        "Link":"https:\/\/cofs.lara.state.mi.us\/SearchApi\/Search\/Search"
+    },
+    {
+        "Country":"US-Michigan",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"State of Michigan Corporations Division - Corporations Online Filing System - Department of Licensing and Regulatory Affairs",
+        "Link":"https:\/\/cofs.lara.state.mi.us\/SearchApi\/Search\/Search"
+    },
+    {
+        "Country":"US-Minnesota",
+        "Document_Type":"Articles of Association",
+        "Price":59.3,
+        "Source":"Minnesota Secretary of State",
+        "Link":"https:\/\/mblsportal.sos.state.mn.us\/Business\/Search"
+    },
+    {
+        "Country":"US-Minnesota",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":64,
+        "Source":"Minnesota Secretary of State",
+        "Link":"https:\/\/mblsportal.sos.state.mn.us\/Business\/Search"
+    },
+    {
+        "Country":"US-Minnesota",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Minnesota Secretary of State",
+        "Link":"https:\/\/mblsportal.sos.state.mn.us\/Business\/Search"
+    },
+    {
+        "Country":"US-Mississippi",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Mississippi Secretary of State",
+        "Link":"https:\/\/corp.sos.ms.gov\/corp\/portal\/c\/page\/corpBusinessIdSearch\/portal.aspx"
+    },
+    {
+        "Country":"US-Mississippi",
+        "Document_Type":"Official Filings (changes)",
+        "Price":50,
+        "Source":"Mississippi Secretary of State",
+        "Link":"https:\/\/corp.sos.ms.gov\/corp\/portal\/c\/page\/corpBusinessIdSearch\/portal.aspx"
+    },
+    {
+        "Country":"US-Mississippi",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Mississippi Secretary of State",
+        "Link":"https:\/\/corp.sos.ms.gov\/corp\/portal\/c\/page\/corpBusinessIdSearch\/portal.aspx"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":59.3,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Official Filings",
+        "Price":59.3,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Official Filings (Certificate of Fact)",
+        "Price":73.2,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Missouri",
+        "Document_Type":"Registration Details",
+        "Price":59.3,
+        "Source":"Missouri Secretary of State",
+        "Link":"https:\/\/bsd.sos.mo.gov\/BusinessEntity\/BESearch.aspx?SearchType=0"
+    },
+    {
+        "Country":"US-Montana",
+        "Document_Type":"Register Report",
+        "Price":54.65,
+        "Source":"Montana Secretary of State",
+        "Link":"https:\/\/biz.sosmt.gov\/search\/business"
+    },
+    {
+        "Country":"US-Nebraska",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":56,
+        "Source":"Nebraska Secretary of State",
+        "Link":"https:\/\/www.nebraska.gov\/sos\/corp\/corpsearch.cgi?nav=search"
+    },
+    {
+        "Country":"US-Nebraska",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Nebraska Secretary of State",
+        "Link":"https:\/\/www.nebraska.gov\/sos\/corp\/corpsearch.cgi?nav=search"
+    },
+    {
+        "Country":"US-Nevada",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Nevada Secretary of State",
+        "Link":"https:\/\/esos.nv.gov\/EntitySearch\/OnlineEntitySearch"
+    },
+    {
+        "Country":"US-New Hampshire",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"New Hampshire Secretary of State",
+        "Link":"https:\/\/www.sos.nh.gov\/corporations-0"
+    },
+    {
+        "Country":"US-New Hampshire",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"New Hampshire Secretary of State",
+        "Link":"https:\/\/www.sos.nh.gov\/corporations-0"
+    },
+    {
+        "Country":"US-New Jersey",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":96.4,
+        "Source":"New Jersey Division of Revenue & Enterprise Services",
+        "Link":"https:\/\/www.njportal.com\/DOR\/BusinessNameSearch\/Search\/BusinessName"
+    },
+    {
+        "Country":"US-New Jersey",
+        "Document_Type":"Registration Details",
+        "Price":55.8,
+        "Source":"New Jersey Division of Revenue & Enterprise Services",
+        "Link":"https:\/\/www.njportal.com\/DOR\/BusinessNameSearch\/Search\/BusinessName"
+    },
+    {
+        "Country":"US-New Mexico",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"New Mexico Secretary of State - Corporations and Business Services",
+        "Link":"https:\/\/www.sos.nm.gov\/business-services\/online-business-services\/"
+    },
+    {
+        "Country":"US-New York",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"NYS Department of State Division of Corporations",
+        "Link":"https:\/\/apps.dos.ny.gov\/publicInquiry\/"
+    },
+    {
+        "Country":"US-New York",
+        "Document_Type":"Articles of Association",
+        "Price":54.65,
+        "Source":"NYS Department of State Division of Corporations",
+        "Link":"https:\/\/apps.dos.ny.gov\/publicInquiry\/"
+    },
+    {
+        "Country":"US-New York",
+        "Document_Type":"Certificate of Registration",
+        "Price":54.65,
+        "Source":"NYS Department of State Division of Corporations",
+        "Link":"https:\/\/apps.dos.ny.gov\/publicInquiry\/"
+    },
+    {
+        "Country":"US-North Carolina",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"North Carolina Secretary of State",
+        "Link":"https:\/\/www.sosnc.gov\/divisions\/business_registration\/online_business_services"
+    },
+    {
+        "Country":"US-North Carolina",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"North Carolina Secretary of State",
+        "Link":"https:\/\/www.sosnc.gov\/divisions\/business_registration\/online_business_services"
+    },
+    {
+        "Country":"US-North Carolina",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":61.15,
+        "Source":"North Carolina Secretary of State",
+        "Link":"https:\/\/www.sosnc.gov\/divisions\/business_registration\/online_business_services"
+    },
+    {
+        "Country":"US-North Carolina",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"North Carolina Secretary of State",
+        "Link":"https:\/\/www.sosnc.gov\/divisions\/business_registration\/online_business_services"
+    },
+    {
+        "Country":"US-North Dakota",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"North Dakota Secretary of State",
+        "Link":"https:\/\/firststop.sos.nd.gov\/search\/business"
+    },
+    {
+        "Country":"US-North Dakota",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"North Dakota Secretary of State",
+        "Link":"https:\/\/firststop.sos.nd.gov\/search\/business"
+    },
+    {
+        "Country":"US-Ohio",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Corporation Database (Ohio Secretary of State)",
+        "Link":"https:\/\/businesssearch.ohiosos.gov\/"
+    },
+    {
+        "Country":"US-Ohio",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Corporation Database (Ohio Secretary of State)",
+        "Link":"https:\/\/businesssearch.ohiosos.gov\/"
+    },
+    {
+        "Country":"US-Oklahoma",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":68.6,
+        "Source":"Oklahoma Secretary of State",
+        "Link":"https:\/\/www.sos.ok.gov\/corp\/corpInquiryFind.aspx"
+    },
+    {
+        "Country":"US-Oklahoma",
+        "Document_Type":"Official Filings",
+        "Price":54.65,
+        "Source":"Oklahoma Secretary of State",
+        "Link":"https:\/\/www.sos.ok.gov\/corp\/corpInquiryFind.aspx"
+    },
+    {
+        "Country":"US-Oklahoma",
+        "Document_Type":"Official Filings (Certificate of Fact)",
+        "Price":68.6,
+        "Source":"Oklahoma Secretary of State",
+        "Link":"https:\/\/www.sos.ok.gov\/corp\/corpInquiryFind.aspx"
+    },
+    {
+        "Country":"US-Oklahoma",
+        "Document_Type":"Registration Details",
+        "Price":54.65,
+        "Source":"Oklahoma Secretary of State",
+        "Link":"https:\/\/www.sos.ok.gov\/corp\/corpInquiryFind.aspx"
+    },
+    {
+        "Country":"US-Oregon",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Corporation Division (Oregon Secretary of State)",
+        "Link":"https:\/\/sos.oregon.gov\/business\/pages\/temp-business-search.aspx"
+    },
+    {
+        "Country":"US-Oregon",
+        "Document_Type":"Annual Report",
+        "Price":54.65,
+        "Source":"Corporation Division (Oregon Secretary of State)",
+        "Link":"https:\/\/sos.oregon.gov\/business\/pages\/temp-business-search.aspx"
+    },
+    {
+        "Country":"US-Oregon",
+        "Document_Type":"Articles of Association",
+        "Price":54.65,
+        "Source":"Corporation Division (Oregon Secretary of State)",
+        "Link":"https:\/\/sos.oregon.gov\/business\/pages\/temp-business-search.aspx"
+    },
+    {
+        "Country":"US-Pennsylvania",
+        "Document_Type":"Certificate of Registration",
+        "Price":64,
+        "Source":"Pennsylvania Department of State",
+        "Link":"https:\/\/file.dos.pa.gov\/forms\/business"
+    },
+    {
+        "Country":"US-Pennsylvania",
+        "Document_Type":"Official Filings (Subsistence Certificate)",
+        "Price":91.8,
+        "Source":"Pennsylvania Department of State",
+        "Link":"https:\/\/file.dos.pa.gov\/forms\/business"
+    },
+    {
+        "Country":"US-Pennsylvania",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Pennsylvania Department of State",
+        "Link":"https:\/\/file.dos.pa.gov\/forms\/business"
+    },
+    {
+        "Country":"US-Rhode Island",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Division of Business Services (Secretary of State)",
+        "Link":"https:\/\/business.sos.ri.gov\/corpweb\/corpsearch\/corpsearch.aspx"
+    },
+    {
+        "Country":"US-Rhode Island",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Division of Business Services (Secretary of State)",
+        "Link":"https:\/\/business.sos.ri.gov\/corpweb\/corpsearch\/corpsearch.aspx"
+    },
+    {
+        "Country":"US-Rhode Island",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":68.6,
+        "Source":"Division of Business Services (Secretary of State)",
+        "Link":"https:\/\/business.sos.ri.gov\/corpweb\/corpsearch\/corpsearch.aspx"
+    },
+    {
+        "Country":"US-Rhode Island",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Division of Business Services (Secretary of State)",
+        "Link":"https:\/\/business.sos.ri.gov\/corpweb\/corpsearch\/corpsearch.aspx"
+    },
+    {
+        "Country":"US-South Carolina",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"South Carolina Secretary of State",
+        "Link":"https:\/\/businessfilings.sc.gov\/businessfiling\/Entity\/Search"
+    },
+    {
+        "Country":"US-South Carolina",
+        "Document_Type":"Certificate of Registration (Certificate of No Record)",
+        "Price":72.3,
+        "Source":"South Carolina Secretary of State",
+        "Link":"https:\/\/businessfilings.sc.gov\/businessfiling\/Entity\/Search"
+    },
+    {
+        "Country":"US-South Carolina",
+        "Document_Type":"Registration Details",
+        "Price":63,
+        "Source":"South Carolina Secretary of State",
+        "Link":"https:\/\/businessfilings.sc.gov\/businessfiling\/Entity\/Search"
+    },
+    {
+        "Country":"US-South Dakota",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"South Dakota Secretary of Stats",
+        "Link":"https:\/\/sosenterprise.sd.gov\/BusinessServices\/Business\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-South Dakota",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"South Dakota Secretary of Stats",
+        "Link":"https:\/\/sosenterprise.sd.gov\/BusinessServices\/Business\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-South Dakota",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":68.6,
+        "Source":"South Dakota Secretary of Stats",
+        "Link":"https:\/\/sosenterprise.sd.gov\/BusinessServices\/Business\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-South Dakota",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"South Dakota Secretary of Stats",
+        "Link":"https:\/\/sosenterprise.sd.gov\/BusinessServices\/Business\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-Tennessee",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Tennessee Secretary of State",
+        "Link":"https:\/\/tnbear.tn.gov\/Ecommerce\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-Tennessee",
+        "Document_Type":"Registration Details",
+        "Price":68.6,
+        "Source":"Tennessee Secretary of State",
+        "Link":"https:\/\/tnbear.tn.gov\/Ecommerce\/FilingSearch.aspx"
+    },
+    {
+        "Country":"US-Texas",
+        "Document_Type":"Articles of Association",
+        "Price":54.65,
+        "Source":"Texas Secretary of State - SOSDirect",
+        "Link":"https:\/\/www.sos.state.tx.us\/corp\/sosda\/index.shtml"
+    },
+    {
+        "Country":"US-Texas",
+        "Document_Type":"Register Report",
+        "Price":54.65,
+        "Source":"Texas Secretary of State - SOSDirect",
+        "Link":"https:\/\/www.sos.state.tx.us\/corp\/sosda\/index.shtml"
+    },
+    {
+        "Country":"US-Texas",
+        "Document_Type":"Registration Details",
+        "Price":64,
+        "Source":"Texas Secretary of State - SOSDirect",
+        "Link":"https:\/\/www.sos.state.tx.us\/corp\/sosda\/index.shtml"
+    },
+    {
+        "Country":"US-Utah",
+        "Document_Type":"Annual Report",
+        "Price":51.8,
+        "Source":"Utah Division of Corporations & Commercial Code (Department of Commerce)",
+        "Link":"https:\/\/businessregistration.utah.gov\/EntitySearch\/OnlineEntitySearch"
+    },
+    {
+        "Country":"US-Utah",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Utah Division of Corporations & Commercial Code (Department of Commerce)",
+        "Link":"https:\/\/businessregistration.utah.gov\/EntitySearch\/OnlineEntitySearch"
+    },
+    {
+        "Country":"US-Utah",
+        "Document_Type":"Registration Details",
+        "Price":61.15,
+        "Source":"Utah Division of Corporations & Commercial Code (Department of Commerce)",
+        "Link":"https:\/\/businessregistration.utah.gov\/EntitySearch\/OnlineEntitySearch"
+    },
+    {
+        "Country":"US-Vermont",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Vermont Secretary of State",
+        "Link":"https:\/\/bizfilings.vermont.gov\/login"
+    },
+    {
+        "Country":"US-Vermont",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Vermont Secretary of State",
+        "Link":"https:\/\/bizfilings.vermont.gov\/login"
+    },
+    {
+        "Country":"US-Vermont",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Vermont Secretary of State",
+        "Link":"https:\/\/bizfilings.vermont.gov\/login"
+    },
+    {
+        "Country":"US-Virginia",
+        "Document_Type":"Annual Accounts",
+        "Price":96.4,
+        "Source":"Clerk's Information System (CIS) - State Corporation Commission (SCC)",
+        "Link":"https:\/\/scc.virginia.gov\/clk\/bussrch.aspx"
+    },
+    {
+        "Country":"US-Virginia",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Clerk's Information System (CIS) - State Corporation Commission (SCC)",
+        "Link":"https:\/\/scc.virginia.gov\/clk\/bussrch.aspx"
+    },
+    {
+        "Country":"US-Virginia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Clerk's Information System (CIS) - State Corporation Commission (SCC)",
+        "Link":"https:\/\/scc.virginia.gov\/clk\/bussrch.aspx"
+    },
+    {
+        "Country":"US-Washington",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Corporations and Charities Filing System",
+        "Link":"https:\/\/ccfs.sos.wa.gov\/#\/"
+    },
+    {
+        "Country":"US-Washington",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Corporations and Charities Filing System",
+        "Link":"https:\/\/ccfs.sos.wa.gov\/#\/"
+    },
+    {
+        "Country":"US-Washington",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"Corporations and Charities Filing System",
+        "Link":"https:\/\/ccfs.sos.wa.gov\/#\/"
+    },
+    {
+        "Country":"US-West Virginia",
+        "Document_Type":"Registration Details",
+        "Price":50,
+        "Source":"West Virginia Secretary of State",
+        "Link":"https:\/\/apps.sos.wv.gov\/business\/corporations\/"
+    },
+    {
+        "Country":"US-Wisconsin",
+        "Document_Type":"Register Report",
+        "Price":50,
+        "Source":"Wisconsin Department of Financial Institutions",
+        "Link":"https:\/\/apps.dfi.wi.gov\/apps\/corpsearch\/search.aspx"
+    },
+    {
+        "Country":"US-Wisconsin",
+        "Document_Type":"Registration Details",
+        "Price":59.3,
+        "Source":"Wisconsin Department of Financial Institutions",
+        "Link":"https:\/\/apps.dfi.wi.gov\/apps\/corpsearch\/search.aspx"
+    },
+    {
+        "Country":"US-Wyoming",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Wyoming Secretary of State - Business Divison",
+        "Link":"https:\/\/wyobiz.wyo.gov\/business\/filingsearch.aspx"
+    },
+    {
+        "Country":"US-Wyoming",
+        "Document_Type":"Certificate of Good Standing",
+        "Price":50,
+        "Source":"Wyoming Secretary of State - Business Divison",
+        "Link":"https:\/\/wyobiz.wyo.gov\/business\/filingsearch.aspx"
+    },
+    {
+        "Country":"US-Wyoming",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Wyoming Secretary of State - Business Divison",
+        "Link":"https:\/\/wyobiz.wyo.gov\/business\/filingsearch.aspx"
+    },
+    {
+        "Country":"Uzbekistan",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Common Register Portal",
+        "Link":null
+    },
+    {
+        "Country":"Vanuatu",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Vanuatu Financial Services Commission",
+        "Link":"https:\/\/www.vfsc.vu\/vanuatu-master\/viewInstance\/view.html?id=a5c1e83ff0a6678b07898b7bfbbad03de9f6a94c42182df3&_timestamp=1647147963954989"
+    },
+    {
+        "Country":"Vanuatu",
+        "Document_Type":"Certificate of Registration",
+        "Price":50,
+        "Source":"Vanuatu Financial Services Commission",
+        "Link":"https:\/\/www.vfsc.vu\/vanuatu-master\/viewInstance\/view.html?id=a5c1e83ff0a6678b07898b7bfbbad03de9f6a94c42182df3&_timestamp=1647147963954989"
+    },
+    {
+        "Country":"Vanuatu",
+        "Document_Type":"Articles of Association",
+        "Price":50,
+        "Source":"Vanuatu Financial Services Commission",
+        "Link":"https:\/\/www.vfsc.vu\/vanuatu-master\/viewInstance\/view.html?id=a5c1e83ff0a6678b07898b7bfbbad03de9f6a94c42182df3&_timestamp=1647147963954989"
+    },
+    {
+        "Country":"Vanuatu",
+        "Document_Type":"Annual Report",
+        "Price":50,
+        "Source":"Vanuatu Financial Services Commission",
+        "Link":"https:\/\/www.vfsc.vu\/vanuatu-master\/viewInstance\/view.html?id=a5c1e83ff0a6678b07898b7bfbbad03de9f6a94c42182df3&_timestamp=1647147963954989"
+    },
+    {
+        "Country":"Zambia",
+        "Document_Type":"Registration Details",
+        "Price":0,
+        "Source":"Patents and Companies Registration Agency (PACRA)",
+        "Link":"https:\/\/search.pacra.org.zm\/"
+    }
+]
