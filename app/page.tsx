@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import Flags from "country-flag-icons/react/3x2"
+import { ComposableMap, Geographies, Geography } from "react-simple-maps"
 
 interface DataItem {
   Country: string
@@ -17,6 +18,9 @@ const countryCodeMap: { [key: string]: string } = {
   Brazil: "BR",
   // Add more mappings as needed
 }
+
+// Add this constant for the map
+const geoUrl = "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json"
 
 export default function Page() {
   const [data, setData] = useState<DataItem[]>([])
@@ -49,6 +53,11 @@ export default function Page() {
     return FlagComponent ? <FlagComponent className="w-6 h-4 mr-2 inline-block" /> : null
   }
 
+  // Add this function to handle map clicks
+  const handleCountryClick = (countryName: string) => {
+    setSearchTerm(countryName)
+  }
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white">
       {/* Hero Section */}
@@ -59,8 +68,43 @@ export default function Page() {
         </div>
       </div>
 
-      {/* Search and Results Section */}
+      {/* Add Map Section */}
       <div className="container mx-auto p-4">
+        <div className="max-w-4xl mx-auto mb-8">
+          <ComposableMap projection="geoMercator">
+            <Geographies geography={geoUrl}>
+              {({ geographies }) =>
+                geographies.map((geo) => (
+                  <Geography
+                    key={geo.rsmKey}
+                    geography={geo}
+                    onClick={() => {
+                      const countryName = geo.properties.name
+                      handleCountryClick(countryName)
+                    }}
+                    style={{
+                      default: {
+                        fill: "#D6D6DA",
+                        outline: "none",
+                      },
+                      hover: {
+                        fill: "#F53",
+                        outline: "none",
+                        cursor: "pointer",
+                      },
+                      pressed: {
+                        fill: "#E42",
+                        outline: "none",
+                      },
+                    }}
+                  />
+                ))
+              }
+            </Geographies>
+          </ComposableMap>
+        </div>
+
+        {/* Search and Results Section */}
         <Input
           type="text"
           placeholder="Search for country, document type, or source..."
