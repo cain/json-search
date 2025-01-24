@@ -37,7 +37,7 @@ export default function Page() {
   useEffect(() => {
     // Filter data based on search term
     const filtered = data.filter((item) =>
-      Object.values(item).some((value) => value.toString().toLowerCase().includes(searchTerm.toLowerCase())),
+      Object.values(item).some((value) => value && value.toString().toLowerCase().includes(searchTerm.toLowerCase())),
     )
     setFilteredData(filtered)
   }, [searchTerm, data])
