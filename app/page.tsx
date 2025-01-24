@@ -5,6 +5,7 @@ import { Input } from "@/components/ui/input"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import Flags from "country-flag-icons/react/3x2"
 import { ComposableMap, Geographies, Geography } from "react-simple-maps"
+import map from "./map.json"
 
 interface DataItem {
   Country: string
@@ -20,7 +21,7 @@ const countryCodeMap: { [key: string]: string } = {
 }
 
 // Add this constant for the map
-const geoUrl = "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json"
+// const geoUrl = "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json"
 
 export default function Page() {
   const [data, setData] = useState<DataItem[]>([])
@@ -72,7 +73,7 @@ export default function Page() {
       <div className="container mx-auto p-4">
         <div className="max-w-4xl mx-auto mb-8">
           <ComposableMap projection="geoMercator">
-            <Geographies geography={geoUrl}>
+            <Geographies geography={map}>
               {({ geographies }) =>
                 geographies.map((geo) => (
                   <Geography
