@@ -71,8 +71,11 @@ export default function Page() {
 
       {/* Add Map Section */}
       <div className="container mx-auto p-4">
-        <div className="max-w-4xl mx-auto mb-8">
-          <ComposableMap projection="geoMercator">
+        <div className="max-w-[500px] mx-auto mb-8">
+          <ComposableMap projectionConfig={{
+        rotate: [-10, 0, 0],
+        scale: 147
+      }} projection="geoMercator">
             <Geographies geography={map}>
               {({ geographies }) =>
                 geographies.map((geo) => (
