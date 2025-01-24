@@ -25,7 +25,7 @@ export default function Page() {
 
   useEffect(() => {
     // Fetch the JSON data
-    fetch("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jsontemplate-OGGBRs8i076p73dDIYsrGiHeccak6b.json")
+    fetch("/Company-Documents-Register.json")
       .then((response) => response.json())
       .then((jsonData) => {
         setData(jsonData)
@@ -54,8 +54,8 @@ export default function Page() {
       {/* Hero Section */}
       <div className="bg-primary text-primary-foreground py-20 px-4">
         <div className="container mx-auto text-center">
-          <h1 className="text-4xl font-bold mb-4">Global Document Search</h1>
-          <p className="text-xl mb-8">Find registration details and documents from around the world</p>
+          <h1 className="text-4xl font-bold mb-4">Worldwide Company Documents</h1>
+          <p className="text-xl mb-8">Find registration details and documents from around the world 🌍</p>
         </div>
       </div>
 
@@ -71,7 +71,7 @@ export default function Page() {
 
         {searchTerm && (
           <>
-            <h2 className="text-2xl font-bold mb-4">Search Results</h2>
+            {/* <h2 className="text-2xl font-bold mb-4">Search Results</h2> */}
             <Table>
               <TableHeader>
                 <TableRow>
